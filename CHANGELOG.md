@@ -10,6 +10,10 @@ Formato orientado a entregas verificáveis. Datas em AAAA-MM-DD.
 - Arquitetura alvo, política de qualidade, UX, acessibilidade e roadmap.
 - Coleção de índices dos 12 volumes, catálogo tipificado e exemplos de verbetes.
 - Schemas e verificação estrutural inicial.
+- 12 fichas introdutórias do Volume I em estado de rascunho.
+- Catálogo de 168 conceitos; 188 menções em índices e 20 remissivas entre volumes.
+- Fila de termos candidatos e relatório de auditoria documental.
+- Primeira validação GitHub Actions concluída com sucesso.
 
 ### Não concluído
 - Pesquisa aprofundada e revisão humana dos verbetes.

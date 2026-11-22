@@ -106,7 +106,8 @@
       "nome": "Anarquismo",
       "tipo": "ideologia",
       "familias": [
-        "F01"
+        "F01",
+        "F04"
       ],
       "volume_principal": 1,
       "status": "rascunho",
@@ -216,7 +217,8 @@
       "nome": "Capitalismo",
       "tipo": "sistema_economico",
       "familias": [
-        "F03"
+        "F03",
+        "F10"
       ],
       "volume_principal": 3,
       "status": "planejado",
@@ -227,7 +229,8 @@
       "nome": "Capitalismo de estado",
       "tipo": "sistema_economico",
       "familias": [
-        "F03"
+        "F03",
+        "F10"
       ],
       "volume_principal": 3,
       "status": "planejado",
@@ -326,7 +329,8 @@
       "nome": "Conservadorismo",
       "tipo": "ideologia",
       "familias": [
-        "F01"
+        "F01",
+        "F05"
       ],
       "volume_principal": 1,
       "status": "rascunho",
@@ -425,7 +429,8 @@
       "nome": "Democracia",
       "tipo": "regime",
       "familias": [
-        "F01"
+        "F01",
+        "F07"
       ],
       "volume_principal": 1,
       "status": "rascunho",
@@ -513,7 +518,8 @@
       "nome": "Desenvolvimentismo",
       "tipo": "ideologia",
       "familias": [
-        "F10"
+        "F10",
+        "F11"
       ],
       "volume_principal": 10,
       "status": "planejado",
@@ -524,7 +530,8 @@
       "nome": "Distributismo",
       "tipo": "ideologia",
       "familias": [
-        "F08"
+        "F08",
+        "F10"
       ],
       "volume_principal": 8,
       "status": "planejado",
@@ -590,7 +597,8 @@
       "nome": "Ecologismo político",
       "tipo": "ideologia",
       "familias": [
-        "F01"
+        "F01",
+        "F09"
       ],
       "volume_principal": 1,
       "status": "rascunho",
@@ -634,7 +642,8 @@
       "nome": "Ecossocialismo",
       "tipo": "vertente",
       "familias": [
-        "F02"
+        "F02",
+        "F09"
       ],
       "volume_principal": 2,
       "status": "planejado",
@@ -689,7 +698,8 @@
       "nome": "Fascismo",
       "tipo": "ideologia",
       "familias": [
-        "F01"
+        "F01",
+        "F06"
       ],
       "volume_principal": 1,
       "status": "rascunho",
@@ -755,7 +765,8 @@
       "nome": "Feminismo político",
       "tipo": "ideologia",
       "familias": [
-        "F01"
+        "F01",
+        "F09"
       ],
       "volume_principal": 1,
       "status": "rascunho",
@@ -788,7 +799,8 @@
       "nome": "Georgismo",
       "tipo": "ideologia",
       "familias": [
-        "F03"
+        "F03",
+        "F10"
       ],
       "volume_principal": 3,
       "status": "planejado",
@@ -821,7 +833,8 @@
       "nome": "Indigenismo politico",
       "tipo": "movimento",
       "familias": [
-        "F09"
+        "F09",
+        "F11"
       ],
       "volume_principal": 9,
       "status": "planejado",
@@ -832,7 +845,8 @@
       "nome": "Integralismo brasileiro",
       "tipo": "movimento",
       "familias": [
-        "F06"
+        "F06",
+        "F11"
       ],
       "volume_principal": 6,
       "status": "planejado",
@@ -1184,7 +1198,8 @@
       "nome": "Nacional desenvolvimentismo",
       "tipo": "vertente",
       "familias": [
-        "F10"
+        "F10",
+        "F11"
       ],
       "volume_principal": 10,
       "status": "planejado",
@@ -1206,7 +1221,8 @@
       "nome": "Nacionalismo",
       "tipo": "ideologia",
       "familias": [
-        "F01"
+        "F01",
+        "F05"
       ],
       "volume_principal": 1,
       "status": "rascunho",
@@ -1360,7 +1376,8 @@
       "nome": "Ordoliberalismo",
       "tipo": "vertente",
       "familias": [
-        "F03"
+        "F03",
+        "F10"
       ],
       "volume_principal": 3,
       "status": "planejado",
@@ -1613,7 +1630,8 @@
       "nome": "Socialismo de mercado",
       "tipo": "vertente",
       "familias": [
-        "F02"
+        "F02",
+        "F10"
       ],
       "volume_principal": 2,
       "status": "planejado",
@@ -1690,7 +1708,8 @@
       "nome": "Tecnocracia",
       "tipo": "teoria_politica",
       "familias": [
-        "F07"
+        "F07",
+        "F12"
       ],
       "volume_principal": 7,
       "status": "planejado",
@@ -1745,7 +1764,8 @@
       "nome": "Teologia da libertação",
       "tipo": "doutrina_politico_religiosa",
       "familias": [
-        "F08"
+        "F08",
+        "F11"
       ],
       "volume_principal": 8,
       "status": "planejado",

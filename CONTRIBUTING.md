@@ -18,7 +18,7 @@ Leia [METODOLOGIA](docs/METODOLOGIA.md), [TAXONOMIA](docs/TAXONOMIA.md), [MODELO
 3. Apresente pelo menos uma fonte adequada à alegação; para controvérsias, apresente visões relevantes e fontes.
 4. Use português claro e linguagem acadêmica não militante.
 5. Não marque texto como publicado sem passar pela revisão.
-6. Atualize PLANeJAMENTO e CHANGELOG quando a alteração concluir um marco; caminho correto: docs/PLANEJAMENTO.md.
+6. Atualize PLANEJAMENTO e CHANGELOG quando a alteração concluir um marco; caminho correto: docs/PLANEJAMENTO.md.
 7. Proponha mudança por pull request, de preferência com um tema por PR.
 
 ## Estrutura de um PR

@@ -34,6 +34,8 @@ Construir uma enciclopédia aberta, documentada e crítica sobre as correntes do
 | [Bibliografia](docs/BIBLIOGRAFIA.md) | Referências de partida e protocolo de citação |
 | [Governança editorial](docs/GOVERNANCA.md) | Revisão, correções, desacordos e versionamento |
 | [Catálogo de correntes](catalogo/README.md) | Índice normalizado com status de cada entrada |
+| [Termos candidatos](catalogo/TERMOS_CANDIDATOS.md) | Fila editorial de novas correntes a avaliar |
+| [Auditoria documental](docs/RELATORIO_DE_AUDITORIA_V1.md) | Resultados verificados e pendências |
 | [Volumes](volumes/README.md) | Programa editorial dos 12 volumes |
 | [Como contribuir](CONTRIBUTING.md) | Guia para colaboração |
 

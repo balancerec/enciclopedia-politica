@@ -21,6 +21,9 @@ Atualizado em: 2026-11-22. Fonte de verdade para o progresso do projeto.
 - [x] Arquitetura alvo, dados e experiência de navegação documentados.
 - [x] Índices de volumes e catálogo inicial estruturados.
 - [x] Esquema de dados, exemplo e verificação estrutural inicial.
+- [x] Doze fichas introdutórias do Volume I criadas como rascunho, sem confundir com publicação.
+- [x] Reconciliar remissivas dos conceitos repetidos entre volumes.
+- [x] Registrar auditoria fundacional e executar validação CI inicial.
 - [ ] Definir e publicar licenças de texto e código.
 - [ ] Revisão bibliográfica especializada da V1.0 por colaboradores.
 
