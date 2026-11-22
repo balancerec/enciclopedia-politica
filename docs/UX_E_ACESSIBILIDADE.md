@@ -1,3 +1,13 @@
+---
+id: doc-ux-e-acessibilidade
+classe: documentacao
+titulo: "Experiência de leitura, navegação e acessibilidade"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Experiência de leitura, navegação e acessibilidade
 
 ## Objetivos de UX
@@ -51,3 +61,5 @@ Apresentar tipo e contexto de cada coluna. Não montar "placar" de virtudes com 
 - Leitor de tela entende tabela de comparação.
 - Usuário identifica claramente estado "rascunho".
 - Links externos possuem destino e contexto legíveis.
+
+[Início do vault Obsidian](../INICIO.md)

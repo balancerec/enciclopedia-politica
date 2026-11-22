@@ -1,3 +1,13 @@
+---
+id: doc-relatorio-de-auditoria-v1
+classe: documentacao
+titulo: "Auditoria da documentação fundacional — 2026-11-22"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Auditoria da documentação fundacional — 2026-11-22
 
 ## Escopo verificado
@@ -28,3 +38,5 @@
 
 ## Estado da entrega
 **Fundação documental publicada. Enciclopédia acadêmica e plataforma web ainda em desenvolvimento.**
+
+[Início do vault Obsidian](../INICIO.md)

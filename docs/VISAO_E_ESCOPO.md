@@ -1,3 +1,13 @@
+---
+id: doc-visao-e-escopo
+classe: documentacao
+titulo: "Visão, público e fronteiras do projeto"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Visão, público e fronteiras do projeto
 
 ## Problema
@@ -37,3 +47,5 @@ Precisão em vez de neutralização artificial. Contexto e atribuição em vez d
 - Histórico de alterações verificável.
 - Acessibilidade, navegabilidade e busca.
 - Revisões externas e tratamento transparente de correções.
+
+[Início do vault Obsidian](../INICIO.md)

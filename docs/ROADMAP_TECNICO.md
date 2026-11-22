@@ -1,3 +1,13 @@
+---
+id: doc-roadmap-tecnico
+classe: documentacao
+titulo: "Roadmap de plataforma e dados"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Roadmap de plataforma e dados
 
 ## Marco A — Fundação documental (atual)
@@ -37,3 +47,5 @@ Entregas: manifesto, esquema, catálogo, templates, 12 índices, regras de quali
 
 ## Critérios de avanço
 Cada marco só avança após checklist e artefatos verificáveis. Não confundir declaração de intenção com implementação pronta.
+
+[Início do vault Obsidian](../INICIO.md)

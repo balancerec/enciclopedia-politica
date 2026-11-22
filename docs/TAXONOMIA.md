@@ -1,3 +1,13 @@
+---
+id: doc-taxonomia
+classe: documentacao
+titulo: "Taxonomia e ontologia editorial — V1.0"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Taxonomia e ontologia editorial — V1.0
 
 ## Tipos de entidade
@@ -54,3 +64,5 @@ Definição estável e uso documentado; distinção substantiva; fontes suficien
 
 ## Índices de descoberta
 Por família, período, lugar, autor, obra, tipo, relações, temas (propriedade, Estado, democracia, religião, ecologia) e estado editorial.
+
+[Início do vault Obsidian](../INICIO.md)
