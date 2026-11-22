@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.0.0",
+  "verbete_id": "liberalismo",
+  "verificado_em": "2026-11-22",
+  "estado": "pesquisa_inicial",
+  "fontes": [
+    {
+      "id": "LIB-S01",
+      "tipo": "secundaria",
+      "titulo": "Liberalism",
+      "autores": [
+        "Shane D. Courtland",
+        "Gerald Gaus",
+        "David Schmidtz"
+      ],
+      "periodo": "revisão substantiva 2026-02-25",
+      "veiculo": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/liberalism/",
+      "localizadores": [
+        "§1 conceitos de liberdade",
+        "§2 clássico e novo liberalismo",
+        "§3 liberalismo político",
+        "§4 extensão do liberalismo"
+      ],
+      "verificacao": "pagina_e_secoes_consultadas"
+    },
+    {
+      "id": "LIB-S02",
+      "tipo": "secundaria",
+      "titulo": "Locke’s Political Philosophy",
+      "autores": [
+        "Alex Tuckness"
+      ],
+      "periodo": "revisão substantiva 2020-10-06",
+      "veiculo": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/locke-political/",
+      "localizadores": [
+        "introdução",
+        "direitos naturais",
+        "propriedade",
+        "consentimento",
+        "tolerância"
+      ],
+      "verificacao": "pagina_e_secoes_consultadas"
+    },
+    {
+      "id": "LIB-S03",
+      "tipo": "secundaria",
+      "titulo": "Mill’s Moral and Political Philosophy",
+      "autores": [
+        "David Brink"
+      ],
+      "periodo": "revisão substantiva 2026-10-04",
+      "veiculo": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/mill-moral-political/",
+      "localizadores": [
+        "introdução",
+        "§3 liberdade",
+        "§4 democracia liberal",
+        "§5 igualdade sexual"
+      ],
+      "verificacao": "pagina_e_secoes_consultadas"
+    },
+    {
+      "id": "LIB-S04",
+      "tipo": "secundaria",
+      "titulo": "John Rawls",
+      "autores": [
+        "Leif Wenar"
+      ],
+      "periodo": "revisão substantiva 2025-09-03",
+      "veiculo": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/rawls/",
+      "localizadores": [
+        "introdução",
+        "§3 legitimidade e pluralismo",
+        "§4 justiça como equidade"
+      ],
+      "verificacao": "pagina_e_secoes_consultadas"
+    },
+    {
+      "id": "LIB-S05",
+      "tipo": "secundaria",
+      "titulo": "Property and Ownership",
+      "autores": [
+        "Jeremy Waldron",
+        "James Penner"
+      ],
+      "periodo": "atualização 2026",
+      "veiculo": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/property/",
+      "localizadores": [
+        "debate histórico de propriedade",
+        "relação com Mill",
+        "§5 justiça distributiva"
+      ],
+      "verificacao": "pagina_e_secoes_consultadas"
+    },
+    {
+      "id": "LIB-S06",
+      "tipo": "primaria",
+      "titulo": "Second Treatise of Government (Livro II)",
+      "autores": [
+        "John Locke"
+      ],
+      "periodo": "1690 — edição histórica",
+      "veiculo": "Res Publica, transcrição de impressão antiga",
+      "url": "https://respublicalibrary.org/locke-second-treatise/",
+      "localizadores": [
+        "Cap. V §§25–27",
+        "Cap. VIII §§95–99",
+        "Cap. IX §§123–131"
+      ],
+      "verificacao": "texto_primario_e_secoes_consultados",
+      "nota": "Trechos conferidos na transcrição histórica. Citações portuguesas dependem de edição de tradução."
+    },
+    {
+      "id": "LIB-S07",
+      "tipo": "primaria",
+      "titulo": "On Liberty",
+      "autores": [
+        "John Stuart Mill"
+      ],
+      "periodo": "1859 — obra original",
+      "veiculo": "Project Gutenberg #34901; espelho de leitura",
+      "url": "https://classicslaunch.org/works/on-liberty/read/",
+      "url_canonica": "https://www.gutenberg.org/ebooks/34901",
+      "localizadores": [
+        "Cap. I Introduction",
+        "Cap. II Liberty of Thought and Discussion",
+        "Cap. III Individuality",
+        "Cap. IV Limits",
+        "Cap. V Applications"
+      ],
+      "verificacao": "texto_primario_e_indice_consultados",
+      "nota": "O espelho se identifica como derivado de Project Gutenberg #34901; confirmar edição crítica antes de uso paginado."
+    },
+    {
+      "id": "LIB-S08",
+      "tipo": "primaria",
+      "titulo": "A Letter Concerning Toleration (1689) and Two Treatises on Government (1690), excertos",
+      "autores": [
+        "John Locke"
+      ],
+      "periodo": "1689–1690",
+      "veiculo": "National Constitution Center, Historic Document Library",
+      "url": "https://constitutioncenter.org/the-constitution/historic-document-library/detail/john-locke-a-letter-concerning-toleration-1689-and-two-treatises-on-government-1690",
+      "localizadores": [
+        "Carta sobre tolerância — excertos",
+        "Segundo Tratado cap. II e V — excertos"
+      ],
+      "verificacao": "pagina_e_excertos_consultados"
+    }
+  ]
+}
