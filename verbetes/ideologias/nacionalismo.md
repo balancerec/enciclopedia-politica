@@ -2,11 +2,17 @@
 id: nacionalismo
 nome: "Nacionalismo"
 tipo: ideologia
-familias: [F01]
+familias: ["F01","F05"]
 volume_principal: 1
 status: rascunho
 criado_em: 2026-11-22
 atualizado_em: 2026-11-22
+classe: verbete
+aliases:
+  - "Nacionalismo"
+tags:
+  - enciclopedia/verbete
+  - estado/rascunho
 ---
 
 # Nacionalismo
@@ -70,3 +76,9 @@ Cívico, étnico, cultural, liberal, econômico, anticolonial e expansionista.
 - [ ] Aprovar status 'publicado'.
 
 [Voltar ao índice do Volume I](../../volumes/01-fundamentos/README.md).
+
+## Navegação no Obsidian
+
+- [Mapa do Volume I](../../mapas/VOLUME-01.md)
+- [Índice de conceitos](../../mapas/INDICE-CONCEITOS.md)
+- [Painel de pesquisa](../../painel/PAINEL-PESQUISA.md)

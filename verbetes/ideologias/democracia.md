@@ -2,11 +2,17 @@
 id: democracia
 nome: "Democracia"
 tipo: regime
-familias: [F01]
+familias: ["F01","F07"]
 volume_principal: 1
 status: rascunho
 criado_em: 2026-11-22
 atualizado_em: 2026-11-22
+classe: verbete
+aliases:
+  - "Democracia"
+tags:
+  - enciclopedia/verbete
+  - estado/rascunho
 ---
 
 # Democracia
@@ -70,3 +76,9 @@ Democracia liberal, participativa, deliberativa, direta e radical.
 - [ ] Aprovar status 'publicado'.
 
 [Voltar ao índice do Volume I](../../volumes/01-fundamentos/README.md).
+
+## Navegação no Obsidian
+
+- [Mapa do Volume I](../../mapas/VOLUME-01.md)
+- [Índice de conceitos](../../mapas/INDICE-CONCEITOS.md)
+- [Painel de pesquisa](../../painel/PAINEL-PESQUISA.md)
