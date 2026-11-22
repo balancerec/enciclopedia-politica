@@ -1,0 +1,23 @@
+filters:
+  and:
+    - 'file.ext == "md"'
+    - or:
+        - 'classe == "documentacao"'
+        - 'classe == "decisao"'
+views:
+  - type: table
+    name: "Documentação e normas"
+    order:
+      - file.name
+      - titulo
+      - classe
+      - status
+  - type: table
+    name: "Decisões arquiteturais"
+    filters:
+      and:
+        - 'classe == "decisao"'
+    order:
+      - file.name
+      - titulo
+      - status

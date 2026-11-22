@@ -2,7 +2,7 @@
 id: doc-decisoes-adr-0001-dados-como-codigo
 classe: decisao
 titulo: "ADR-0001 — Conteúdo e metadados versionados em Git"
-status: ativo
+status: aceito
 aliases: []
 tags:
   - enciclopedia/documentacao

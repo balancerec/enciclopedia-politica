@@ -2,7 +2,7 @@
 id: doc-decisoes-adr-0002-licenciamento-pendente
 classe: decisao
 titulo: "ADR-0002 — Licenciamento editorial e técnico"
-status: ativo
+status: pendente
 aliases: []
 tags:
   - enciclopedia/documentacao

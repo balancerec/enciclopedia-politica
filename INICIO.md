@@ -43,6 +43,7 @@ atualizado_em: 2026-11-22
 
 ## Pesquisa e metodologia
 - [Metodologia](docs/METODOLOGIA.md) · [Taxonomia](docs/TAXONOMIA.md) · [Bibliografia](docs/BIBLIOGRAFIA.md)
+- [Base de documentação](bases/DOCUMENTACAO.base)
 - [Governança](docs/GOVERNANCA.md) · [Modelo de verbete](docs/MODELO_VERBETE.md)
 - [Liberalismo — verbete](verbetes/ideologias/liberalismo.md) · [Fichamento](pesquisa/fichamentos/liberalismo.md)
 

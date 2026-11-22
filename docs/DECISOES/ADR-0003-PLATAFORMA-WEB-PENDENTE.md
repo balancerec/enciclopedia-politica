@@ -2,7 +2,7 @@
 id: doc-decisoes-adr-0003-plataforma-web-pendente
 classe: decisao
 titulo: "ADR-0003 — Plataforma estática de publicação"
-status: ativo
+status: proposto
 aliases: []
 tags:
   - enciclopedia/documentacao

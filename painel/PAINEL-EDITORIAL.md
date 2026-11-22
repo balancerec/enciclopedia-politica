@@ -19,6 +19,9 @@ tags:
 - [Histórico](../CHANGELOG.md)
 - [Auditoria V1](../docs/RELATORIO_DE_AUDITORIA_V1.md)
 
+## Documentação e decisões
+![[bases/DOCUMENTACAO.base]]
+
 ## Coleção
 ![[bases/VOLUMES.base]]
 
