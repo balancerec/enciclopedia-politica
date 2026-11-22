@@ -2,6 +2,18 @@
 
 Formato orientado a entregas verificáveis. Datas em AAAA-MM-DD.
 
+## [1.1.0-research] — 2026-11-22
+### Adicionado
+- Primeira pesquisa aprofundada: Liberalismo, nas 15 dimensões, com reservas e classificação contextual.
+- Registro de oito fontes identificadas com localização, natureza e estado de verificação.
+- Fichamento crítico e questões pendentes de estudo comparado.
+- Validador específico de citações e fontes com execução no GitHub Actions.
+- Atualização do Volume I, bibliografia e checklist da Fase 1.
+
+### Pendente
+- Validação acadêmica humana e comparação integral de edições e traduções.
+- Rascunho Liberalismo permanece **não publicado**.
+
 ## [1.0.0-docs] — 2026-11-22
 ### Adicionado
 - Repositório inicializado e manifesto no README.

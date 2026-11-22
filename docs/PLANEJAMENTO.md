@@ -1,4 +1,4 @@
-# Planejamento editorial e checklist — V1.0
+# Planejamento editorial e checklist — V1.1 (pesquisa inicial)
 Atualizado em: 2026-11-22. Fonte de verdade para o progresso do projeto.
 
 ## Regras de manutenção
@@ -28,6 +28,21 @@ Atualizado em: 2026-11-22. Fonte de verdade para o progresso do projeto.
 - [ ] Revisão bibliográfica especializada da V1.0 por colaboradores.
 
 ## Fase 1 — Pesquisa e acervo
+
+### Lote de pesquisa I.1 — Liberalismo
+- [x] Definição e 15 dimensões ampliadas em verbete de pesquisa.
+- [x] Identificar e registrar fontes primárias (textos de Locke e Mill), com localização específica e limites explícitos.
+- [x] Verificar e registrar oito referências (três registros primários, incluindo dois documentos de Locke, e cinco estudos acadêmicos secundários).
+- [x] Criar fichamento crítico com divergências, riscos de anacronismo e questões abertas.
+- [x] Vincular fontes à redação usando identificadores estáveis LIB-S01 a LIB-S08.
+- [x] Acrescentar checagem estrutural automatizada de fontes ao pipeline.
+- [ ] Conferência de edições e traduções por pesquisador humano.
+- [ ] Revisão historiográfica e aprovação independente do verbete Liberalismo.
+- [ ] Publicar Liberalismo após aprovação editorial.
+
+**Estado do lote:** texto aprofundado em rascunho; sem verbete publicado. Etapas de bibliografia integral de todas as correntes continuam pendentes.
+
+
 - [ ] Inventário expandido e deduplicação de todas as famílias e vertentes catalogadas.
 - [ ] Fontes primárias confirmadas para cada entrada principal.
 - [ ] Fontes secundárias especializadas para cada entrada principal.

@@ -19,6 +19,11 @@ Introduz o vocabulário da filosofia política, distinguindo ideologia, teoria, 
 11. **feminismo politico** (slug proposto: `feminismo-politico`)
 12. **ecologismo politico** (slug proposto: `ecologismo-politico`)
 
+## Pesquisa em andamento
+
+- [Liberalismo — estudo analítico V1.1](../../verbetes/ideologias/liberalismo.md): as 15 dimensões foram ampliadas, com oito fontes verificadas e [fichamento crítico](../../pesquisa/fichamentos/liberalismo.md). **Status:** rascunho, sem revisão acadêmica independente.
+- As 11 outras fichas introdutórias permanecem em rascunho inicial.
+
 ## Questões orientadoras
 - Como as tradições mudam no tempo?
 - Por que esquerda e direita não bastam?

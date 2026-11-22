@@ -60,3 +60,21 @@ Consultar obras de história política, sociologia e ciência política locais, 
 6. Revisar validade e direitos de uso.
 
 Ver [REGRAS_DE_CITACAO.md](REGRAS_DE_CITACAO.md).
+
+
+## Lote de pesquisa I.1 — Liberalismo (fontes efetivamente identificadas)
+
+**Estado em 2026-11-22:** endereços, autores, algumas seções e datas conferidos nas páginas de referência. A bibliografia não equivale a revisão integral de todos os livros.
+
+| ID | Fonte | Tipo | Escopo utilizado |
+|---|---|---|---|
+| LIB-S01 | [Courtland, Gaus e Schmidtz — *Liberalism* (SEP, rev. 2026)](https://plato.stanford.edu/entries/liberalism/) | Secundária | Diversidade de escolas liberais |
+| LIB-S02 | [Tuckness — *Locke's Political Philosophy* (SEP, rev. 2020)](https://plato.stanford.edu/entries/locke-political/) | Secundária | Locke: direitos, propriedade, tolerância |
+| LIB-S03 | [Brink — *Mill's Moral and Political Philosophy* (SEP, rev. 2026)](https://plato.stanford.edu/entries/mill-moral-political/) | Secundária | Liberdade, utilitarismo e representação |
+| LIB-S04 | [Wenar — *John Rawls* (SEP, rev. 2025)](https://plato.stanford.edu/entries/rawls/) | Secundária | Justiça como equidade e liberalismo político |
+| LIB-S05 | [Waldron e Penner — *Property and Ownership* (SEP, 2026)](https://plato.stanford.edu/entries/property/) | Secundária | Direitos de propriedade, justiça distributiva |
+| LIB-S06 | [Locke — *Second Treatise* (1690)](https://respublicalibrary.org/locke-second-treatise/) | Primária | Livro II, cap. V, VIII e IX |
+| LIB-S07 | [Mill — *On Liberty* (1859), transcrição derivada do Gutenberg](https://classicslaunch.org/works/on-liberty/read/) | Primária | Caps. I–V |
+| LIB-S08 | [Locke — *Letter Concerning Toleration* e *Second Treatise*, excertos](https://constitutioncenter.org/the-constitution/historic-document-library/detail/john-locke-a-letter-concerning-toleration-1689-and-two-treatises-on-government-1690) | Primária | Tolerância e direitos |
+
+Os identificadores, metadados e limites da inspeção estão em [pesquisa/fontes/liberalismo.json](../pesquisa/fontes/liberalismo.json) e no [fichamento](../pesquisa/fichamentos/liberalismo.md). **Não supor revisão humana nem leitura integral de livros modernos.**

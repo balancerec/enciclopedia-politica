@@ -945,11 +945,12 @@
       "nome": "Liberalismo",
       "tipo": "ideologia",
       "familias": [
-        "F01"
+        "F01",
+        "F03"
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Pesquisa inicial aprofundada V1.1, com oito fontes documentadas; sem revisão humana independente. Rascunho, não publicado."
     },
     {
       "id": "liberalismo-classico",

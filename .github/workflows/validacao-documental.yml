@@ -15,3 +15,6 @@ jobs:
           python-version: "3.12"
       - name: Validar estrutura
         run: python scripts/validar_catalogo.py
+
+      - name: Validar rastreabilidade da pesquisa
+        run: python scripts/validar_pesquisa.py
