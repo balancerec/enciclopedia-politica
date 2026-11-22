@@ -16,3 +16,15 @@ Este diretório contém fontes identificadas, resumos metodológicos e fichament
 
 ## Observação
 As datas de revisão e autores das fontes acadêmicas são verificadas nas próprias páginas referenciadas. A existência de um link não significa que a obra completa foi lida.
+
+
+## Pesquisa em formato Obsidian
+
+- [Mapa de autores, obras e fontes](../mapas/AUTORES-E-OBRAS.md).
+- [Fichamento do Liberalismo](fichamentos/liberalismo.md).
+- `fontes/notas/`: 8 notas, uma por ID de referência LIB-S01 a LIB-S08.
+- `autores/`: 8 notas biográficas **planejadas** (não revisadas).
+- `obras/`: 5 fichas de obras **planejadas** (não revisadas).
+- [Bases de pesquisa](../bases/PESQUISA.base).
+
+O JSON original de fontes permanece disponível para auditoria e processamento técnico. As notas Markdown são a forma de navegação no Obsidian.

@@ -110,3 +110,17 @@ Fase 1, publicação textual; fase 2, comparador e mapas de influências; fase 3
 - Framework, buscador, política de cache, metadados de SEO, hospedagem final.
 - Regime de licenças e regras de colaboração com direitos de reprodução.
 - Versão final do modelo de dados e migrações futuras.
+
+
+## Implementação Obsidian (2026-11-22)
+
+**Camada de pesquisa efetivamente implementada:** vault local com arquivos Markdown, propriedades YAML, MOCs, consultas nativas Bases, Canvas e modelos, conforme [guia Obsidian](OBSIDIAN.md).
+
+- `catalogo/catalogo.json` continua sendo a referência de IDs e tipologia.
+- Os 168 IDs estão materializados em notas em `verbetes/ideologias/` e `verbetes/conceitos/`.
+- `mapas/` agrega conceitos por volume e cria links internos de navegação.
+- `pesquisa/fontes/notas/`, `pesquisa/autores/` e `pesquisa/obras/` conectam pesquisa documental a verbetes.
+- Obsidian é editor/navegador local. **Não substitui** a proposta futura do site Astro/Next.js.
+- `scripts/validar_obsidian.py` verifica coerência estrutural. Migração automática futura deve evitar IDs duplicados.
+
+**Decisão atual:** arquivos Markdown relativos como interoperabilidade padrão Obsidian/GitHub. Wikilinks e embeds específicos são usados apenas nos painéis onde o recurso é realmente necessário.

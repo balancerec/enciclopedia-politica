@@ -31,3 +31,10 @@
 
 ## Critério de conclusão
 Um índice ou sumário não é capítulo concluído. Ver [PLANEJAMENTO](../docs/PLANEJAMENTO.md), com revisão de fontes, neutralidade e consistência.
+
+
+## Mapas de Conteúdo do Obsidian
+
+Os 12 volumes possuem [mapas navegáveis](../mapas/INDICE-CONCEITOS.md), localizados em `mapas/VOLUME-01.md` até `mapas/VOLUME-12.md`. Os arquivos `README.md` preservam os sumários originais, enquanto os MOCs ligam cada conceito à sua nota canônica. A [consulta de volumes](../bases/VOLUMES.base) permite acompanhar os metadados.
+
+Nenhum volume foi declarado editorialmente concluído apenas por estar conectado no vault.

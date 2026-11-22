@@ -22,3 +22,10 @@ Slugs sem acento e em kebab-case. Homônimos exigem qualificador. Conceitos tran
 
 ## Riscos conhecidos
 As nomenclaturas mudam entre idiomas, épocas e autores. Rótulos controversos requerem notas e fontes; classificações que rotulam movimentos contemporâneos não podem ser afirmadas sem evidência suficiente.
+
+
+## Integração com Obsidian
+
+Cada entidade de `catalogo.json` possui o campo `nota` apontando a um arquivo Markdown do vault. Existem 12 fichas em `verbetes/ideologias/` e 156 notas planejadas em `verbetes/conceitos/`. O catálogo **não** é automaticamente atualizado quando uma propriedade YAML muda: sincronize os dois arquivos e rode o [validador](../scripts/validar_obsidian.py).
+
+[Índice navegável](../mapas/INDICE-CONCEITOS.md).

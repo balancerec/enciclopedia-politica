@@ -1,4 +1,4 @@
-# Planejamento editorial e checklist — V1.1 (pesquisa inicial)
+# Planejamento editorial e checklist — V1.2 (pesquisa inicial)
 Atualizado em: 2026-11-22. Fonte de verdade para o progresso do projeto.
 
 ## Regras de manutenção
@@ -26,6 +26,25 @@ Atualizado em: 2026-11-22. Fonte de verdade para o progresso do projeto.
 - [x] Registrar auditoria fundacional e executar validação CI inicial.
 - [ ] Definir e publicar licenças de texto e código.
 - [ ] Revisão bibliográfica especializada da V1.0 por colaboradores.
+
+## Marco Obsidian — Vault nativo e grafo de conhecimento (V1.2)
+
+- [x] Preservar o conteúdo Markdown original e o histórico Git.
+- [x] Configurar vault com plugins nativos, links Markdown relativos e templates.
+- [x] Criar página INICIO, dois painéis, 12 MOCs e índice de conceitos.
+- [x] Criar uma nota por ID do catálogo: 168 notas, sendo 12 rascunhos já existentes e 156 planejadas.
+- [x] Reconciliar as famílias de conceitos transversais com os respectivos MOCs.
+- [x] Preparar consultas Obsidian Bases para conceitos, volumes e pesquisa.
+- [x] Criar Canvas com os 12 volumes conectados ao índice.
+- [x] Vincular fontes do Liberalismo a 8 registros individuais, notas de autores e obras.
+- [x] Criar auditoria estrutural do vault no CI e executar a verificação com sucesso.
+- [x] Adicionar o guia de uso e um fluxo Git local.
+- [ ] Revisar visualmente o Canvas e as consultas Bases no aplicativo Obsidian instalado.
+- [ ] Verificar experiência multiplataforma em Windows, Android e outros clientes.
+- [ ] Implementar atualização automática bidirecional entre JSON e Markdown, se necessária.
+- [ ] Definir licença de texto, código e imagens.
+
+**Importante:** vault concluído **estruturalmente**; não significa plataforma web publicada, nem 168 artigos pesquisados. O cronograma editorial segue abaixo.
 
 ## Fase 1 — Pesquisa e acervo
 

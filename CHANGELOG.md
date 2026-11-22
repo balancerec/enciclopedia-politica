@@ -2,6 +2,21 @@
 
 Formato orientado a entregas verificáveis. Datas em AAAA-MM-DD.
 
+## [1.2.0-obsidian] — 2026-11-22
+### Adicionado
+- Configuração de vault Obsidian em `.obsidian/`, sem plugins de terceiros.
+- Página inicial, painéis, modelos, Bases e Canvas nativos.
+- 12 mapas de conteúdo, índice A–Z e materialização dos 168 conceitos em notas.
+- Metadados unificados nas 12 fichas e nos 12 sumários de volumes.
+- 8 registros de fontes, 8 pensadores e 5 obras iniciais com links ao estudo de Liberalismo.
+- Auditoria de links e integridade do vault via GitHub Actions.
+- Guia Obsidian, novos checkboxes de migração e instruções Git.
+
+### Preservado / pendente
+- Markdown original, histórico do Git e distinções entre status planejado, rascunho e publicado.
+- Revisão histórica independente e publicação editorial continuam pendentes.
+- Revisão visual de UI no Obsidian desktop e licença ainda pendentes.
+
 ## [1.1.0-research] — 2026-11-22
 ### Adicionado
 - Primeira pesquisa aprofundada: Liberalismo, nas 15 dimensões, com reservas e classificação contextual.

@@ -5,6 +5,20 @@
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-555)](docs/PLANEJAMENTO.md)
 [![Idioma](https://img.shields.io/badge/idioma-pt--BR-blue)](docs/METODOLOGIA.md)
 
+## Usar no Obsidian — vault nativo
+
+Este repositório **já funciona como um vault Obsidian**: clone a pasta inteira e abra-a no aplicativo pelo comando **Abrir pasta como vault**. Comece em [INICIO.md](INICIO.md).
+
+- **168 notas de conceitos** com IDs canônicos e status; 12 são rascunhos e 156 são entradas planejadas.
+- **12 Mapas de Conteúdo (MOC)** em [mapas/](mapas/INDICE-CONCEITOS.md).
+- **Bases nativas** de verbetes, volumes e pesquisa em `bases/`.
+- **Canvas visual** em `canvas/ENCICLOPEDIA.canvas`.
+- **Modelos de nota** em `_sistema/templates/`, configurações versionadas em `.obsidian/`.
+- **Pesquisa conectada** por autores, obras, fontes e fichamentos.
+- **Auditoria CI** por `scripts/validar_obsidian.py`.
+
+A adaptação **não** conclui pesquisas historiográficas ou implementa o futuro website. Veja o [guia Obsidian](docs/OBSIDIAN.md), o [painel editorial](painel/PAINEL-EDITORIAL.md) e o [checklist oficial](docs/PLANEJAMENTO.md).
+
 ## Missão
 
 Construir uma enciclopédia aberta, documentada e crítica sobre as correntes do pensamento político, do mundo antigo às disputas contemporâneas, com linguagem acessível, rastreabilidade bibliográfica e separação rigorosa entre **teoria normativa**, **programas políticos** e **práticas históricas**.

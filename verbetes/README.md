@@ -26,3 +26,12 @@ Use id canônico igual ao slug no catálogo. Um conceito com mais de um nome dev
 - [Ecologismo político](ideologias/ecologismo-politico.md)
 
 **Nenhuma ficha desta lista foi aprovada como publicação acadêmica.**
+
+
+## Integração Obsidian
+
+- `ideologias/`: 12 verbetes introdutórios já desenvolvidos, ainda em rascunho.
+- `conceitos/`: 156 **notas planejadas** para que todos os conceitos estejam presentes no grafo.
+- [Índice canônico de conceitos](../mapas/INDICE-CONCEITOS.md) e [Bases de verbetes](../bases/VERBETES.base).
+
+Não editar `id` sem migração. Alterações de `status` ou `familias` devem ser refletidas no catálogo JSON e verificadas em CI. Uma nota navegável não é sinônimo de pesquisa concluída.
