@@ -2,11 +2,17 @@
 id: social-democracia
 nome: "Social-democracia"
 tipo: ideologia
-familias: [F01]
+familias: ["F01"]
 volume_principal: 1
 status: rascunho
 criado_em: 2026-11-22
 atualizado_em: 2026-11-22
+classe: verbete
+aliases:
+  - "Social-democracia"
+tags:
+  - enciclopedia/verbete
+  - estado/rascunho
 ---
 
 # Social-democracia
@@ -70,3 +76,9 @@ Clássica, moderna, trabalhista e debates sobre Terceira Via.
 - [ ] Aprovar status 'publicado'.
 
 [Voltar ao índice do Volume I](../../volumes/01-fundamentos/README.md).
+
+## Navegação no Obsidian
+
+- [Mapa do Volume I](../../mapas/VOLUME-01.md)
+- [Índice de conceitos](../../mapas/INDICE-CONCEITOS.md)
+- [Painel de pesquisa](../../painel/PAINEL-PESQUISA.md)

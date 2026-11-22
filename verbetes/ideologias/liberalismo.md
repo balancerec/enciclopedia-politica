@@ -2,11 +2,17 @@
 id: liberalismo
 nome: "Liberalismo"
 tipo: ideologia
-familias: [F01, F03]
+familias: ["F01","F03"]
 volume_principal: 1
 status: rascunho
 criado_em: 2026-11-22
 atualizado_em: 2026-11-22
+classe: verbete
+aliases:
+  - "Liberalismo"
+tags:
+  - enciclopedia/verbete
+  - estado/rascunho
 ---
 
 # Liberalismo — estudo analítico V1.1
@@ -166,3 +172,9 @@ Veja o [registro estruturado](../../pesquisa/fontes/liberalismo.json) para statu
 **Decisão editorial:** permanece em **rascunho** até avaliação humana independente. Este texto é uma etapa de pesquisa, não uma declaração de verbete finalizado.
 
 [Voltar ao índice do Volume I](../../volumes/01-fundamentos/README.md).
+
+## Navegação no Obsidian
+
+- [Mapa do Volume I](../../mapas/VOLUME-01.md)
+- [Índice de conceitos](../../mapas/INDICE-CONCEITOS.md)
+- [Painel de pesquisa](../../painel/PAINEL-PESQUISA.md)
