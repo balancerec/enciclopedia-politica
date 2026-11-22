@@ -7,6 +7,7 @@
 | VER | Vertente | Corrente interna ou derivação identificável | liberalismo social |
 | TPO | Teoria política | Explicação normativa ou analítica do poder | contratualismo |
 | TEC | Teoria econômica | Escola/modelo explicativo de fenômenos econômicos | monetarismo |
+| SYS | Sistema econômico | Arranjo de propriedade e coordenação da produção | capitalismo |
 | REG | Regime político | Modo efetivo de exercício do poder | democracia liberal |
 | GOV | Forma de governo | Estrutura da chefia de Estado ou governo | monarquia constitucional |
 | MOV | Movimento político | Atores organizados e sua mobilização | sufragismo |

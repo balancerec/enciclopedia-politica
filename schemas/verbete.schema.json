@@ -1,0 +1,275 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Verbete estruturado",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "nome",
+    "tipo",
+    "familias",
+    "volume_principal",
+    "status",
+    "resumo",
+    "aliases",
+    "tags",
+    "criado_em",
+    "atualizado_em",
+    "secoes",
+    "fontes"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "nome": {
+      "type": "string",
+      "minLength": 2
+    },
+    "tipo": {
+      "enum": [
+        "regime",
+        "forma_governo",
+        "sistema_economico",
+        "teoria_economica",
+        "teoria_politica",
+        "movimento",
+        "politica_publica",
+        "doutrina_politico_religiosa",
+        "rotulo_analitico",
+        "ideologia",
+        "vertente"
+      ]
+    },
+    "familias": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^F(0[1-9]|1[0-2])$"
+      }
+    },
+    "volume_principal": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 12
+    },
+    "status": {
+      "enum": [
+        "planejado",
+        "rascunho",
+        "em_revisao",
+        "publicado",
+        "desatualizado"
+      ]
+    },
+    "resumo": {
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 500
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "criado_em": {
+      "type": "string",
+      "format": "date"
+    },
+    "atualizado_em": {
+      "type": "string",
+      "format": "date"
+    },
+    "autores": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "revisores": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "controversia": {
+      "enum": [
+        "baixa",
+        "media",
+        "alta",
+        "nao_avaliada"
+      ]
+    },
+    "secoes": {
+      "type": "object",
+      "required": [
+        "identidade",
+        "origem",
+        "pensadores",
+        "obras",
+        "filosofia",
+        "estado",
+        "economia",
+        "propriedade",
+        "democracia",
+        "liberdades",
+        "igualdade",
+        "religiao",
+        "experiencias",
+        "criticas",
+        "subcorrentes"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "identidade": {
+          "type": "string",
+          "minLength": 1
+        },
+        "origem": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pensadores": {
+          "type": "string",
+          "minLength": 1
+        },
+        "obras": {
+          "type": "string",
+          "minLength": 1
+        },
+        "filosofia": {
+          "type": "string",
+          "minLength": 1
+        },
+        "estado": {
+          "type": "string",
+          "minLength": 1
+        },
+        "economia": {
+          "type": "string",
+          "minLength": 1
+        },
+        "propriedade": {
+          "type": "string",
+          "minLength": 1
+        },
+        "democracia": {
+          "type": "string",
+          "minLength": 1
+        },
+        "liberdades": {
+          "type": "string",
+          "minLength": 1
+        },
+        "igualdade": {
+          "type": "string",
+          "minLength": 1
+        },
+        "religiao": {
+          "type": "string",
+          "minLength": 1
+        },
+        "experiencias": {
+          "type": "string",
+          "minLength": 1
+        },
+        "criticas": {
+          "type": "string",
+          "minLength": 1
+        },
+        "subcorrentes": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "fontes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "titulo",
+          "tipo",
+          "url"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "titulo": {
+            "type": "string"
+          },
+          "autor": {
+            "type": "string"
+          },
+          "ano": {
+            "type": "integer"
+          },
+          "tipo": {
+            "enum": [
+              "primaria",
+              "secundaria",
+              "dados"
+            ]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "localizacao": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "relacoes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "tipo",
+          "alvo"
+        ],
+        "properties": {
+          "tipo": {
+            "enum": [
+              "subcorrente_de",
+              "influenciado_por",
+              "diverge_de",
+              "associado_a",
+              "nao_confundir_com",
+              "termo_alternativo",
+              "caso_historico"
+            ]
+          },
+          "alvo": {
+            "type": "string"
+          },
+          "nota": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "notas_editoriais": {
+      "type": "string"
+    }
+  }
+}

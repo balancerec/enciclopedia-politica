@@ -1,0 +1,1854 @@
+{
+  "schema_version": "1.0.0",
+  "updated_at": "2026-11-22",
+  "entries": [
+    {
+      "id": "aceleracionismo",
+      "nome": "Aceleracionismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "aceleracionismo-de-direita",
+      "nome": "Aceleracionismo de direita",
+      "tipo": "vertente",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "aceleracionismo-de-esquerda",
+      "nome": "Aceleracionismo de esquerda",
+      "tipo": "vertente",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "agorismo",
+      "nome": "Agorismo",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anarcocapitalismo",
+      "nome": "Anarcocapitalismo",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anarcocomunismo",
+      "nome": "Anarcocomunismo",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anarcofeminismo",
+      "nome": "Anarcofeminismo",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anarcoprimitivismo",
+      "nome": "Anarcoprimitivismo",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anarcossindicalismo",
+      "nome": "Anarcossindicalismo",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anarquismo",
+      "nome": "Anarquismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anarquismo-coletivista",
+      "nome": "Anarquismo coletivista",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anarquismo-egoista",
+      "nome": "Anarquismo egoista",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anarquismo-individualista",
+      "nome": "Anarquismo individualista",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anarquismo-verde",
+      "nome": "Anarquismo verde",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "anticolonialismo",
+      "nome": "Anticolonialismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "autoritarismo",
+      "nome": "Autoritarismo",
+      "tipo": "regime",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "bolivarianismo",
+      "nome": "Bolivarianismo",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "bolsonarismo",
+      "nome": "Bolsonarismo",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "brizolismo",
+      "nome": "Brizolismo",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "capitalismo",
+      "nome": "Capitalismo",
+      "tipo": "sistema_economico",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "capitalismo-de-estado",
+      "nome": "Capitalismo de estado",
+      "tipo": "sistema_economico",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "cepalismo",
+      "nome": "Cepalismo",
+      "tipo": "teoria_economica",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "chavismo",
+      "nome": "Chavismo",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "ciberfeminismo",
+      "nome": "Ciberfeminismo",
+      "tipo": "vertente",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "comunismo",
+      "nome": "Comunismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "comunismo-cristao",
+      "nome": "Comunismo cristao",
+      "tipo": "doutrina_politico_religiosa",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "comunismo-de-conselhos",
+      "nome": "Comunismo de conselhos",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "confederalismo",
+      "nome": "Confederalismo",
+      "tipo": "teoria_politica",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "confederalismo-democratico",
+      "nome": "Confederalismo democratico",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "conservadorismo",
+      "nome": "Conservadorismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "conservadorismo-liberal",
+      "nome": "Conservadorismo liberal",
+      "tipo": "vertente",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "conservadorismo-social",
+      "nome": "Conservadorismo social",
+      "tipo": "vertente",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "conservadorismo-tradicionalista",
+      "nome": "Conservadorismo tradicionalista",
+      "tipo": "vertente",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "constitucionalismo",
+      "nome": "Constitucionalismo",
+      "tipo": "teoria_politica",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "cooperativismo",
+      "nome": "Cooperativismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "corporativismo-autoritario",
+      "nome": "Corporativismo autoritario",
+      "tipo": "vertente",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "criptoanarquismo",
+      "nome": "Criptoanarquismo",
+      "tipo": "vertente",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "decrescimento",
+      "nome": "Decrescimento",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "democracia",
+      "nome": "Democracia",
+      "tipo": "regime",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "democracia-crista",
+      "nome": "Democracia crista",
+      "tipo": "doutrina_politico_religiosa",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "democracia-deliberativa",
+      "nome": "Democracia deliberativa",
+      "tipo": "regime",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "democracia-direta",
+      "nome": "Democracia direta",
+      "tipo": "regime",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "democracia-liberal",
+      "nome": "Democracia liberal",
+      "tipo": "regime",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "democracia-participativa",
+      "nome": "Democracia participativa",
+      "tipo": "regime",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "democracia-radical",
+      "nome": "Democracia radical",
+      "tipo": "regime",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "democracia-representativa",
+      "nome": "Democracia representativa",
+      "tipo": "regime",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "desenvolvimentismo",
+      "nome": "Desenvolvimentismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "distributismo",
+      "nome": "Distributismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "ditadura-militar",
+      "nome": "Ditadura militar",
+      "tipo": "regime",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "ecoanarquismo",
+      "nome": "Ecoanarquismo",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "ecofeminismo",
+      "nome": "Ecofeminismo",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "ecologia-profunda",
+      "nome": "Ecologia profunda",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "ecologia-social",
+      "nome": "Ecologia social",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "ecologismo-politico",
+      "nome": "Ecologismo político",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "ecomodernismo",
+      "nome": "Ecomodernismo",
+      "tipo": "vertente",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "economia-mista",
+      "nome": "Economia mista",
+      "tipo": "sistema_economico",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "economia-planejada",
+      "nome": "Economia planejada",
+      "tipo": "sistema_economico",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "ecossocialismo",
+      "nome": "Ecossocialismo",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "epistocracia",
+      "nome": "Epistocracia",
+      "tipo": "teoria_politica",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "especifismo",
+      "nome": "Especifismo",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "eurocomunismo",
+      "nome": "Eurocomunismo",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "falangismo",
+      "nome": "Falangismo",
+      "tipo": "vertente",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "fascismo",
+      "nome": "Fascismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "fascismo-clerical",
+      "nome": "Fascismo clerical",
+      "tipo": "vertente",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "federalismo",
+      "nome": "Federalismo",
+      "tipo": "teoria_politica",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "feminismo-interseccional",
+      "nome": "Feminismo interseccional",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "feminismo-liberal",
+      "nome": "Feminismo liberal",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "feminismo-negro",
+      "nome": "Feminismo negro",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "feminismo-politico",
+      "nome": "Feminismo político",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "feminismo-radical",
+      "nome": "Feminismo radical",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "feminismo-socialista",
+      "nome": "Feminismo socialista",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "georgismo",
+      "nome": "Georgismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "governanca-algoritmica",
+      "nome": "Governança algorítmica",
+      "tipo": "politica_publica",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "hindutva",
+      "nome": "Hindutva",
+      "tipo": "doutrina_politico_religiosa",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "indigenismo-politico",
+      "nome": "Indigenismo politico",
+      "tipo": "movimento",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "integralismo-brasileiro",
+      "nome": "Integralismo brasileiro",
+      "tipo": "movimento",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "islamismo-politico",
+      "nome": "Islamismo politico",
+      "tipo": "doutrina_politico_religiosa",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "juche",
+      "nome": "Juche",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "justica-climatica",
+      "nome": "Justiça climática",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "keynesianismo",
+      "nome": "Keynesianismo",
+      "tipo": "teoria_economica",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "kirchnerismo",
+      "nome": "Kirchnerismo",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "laicismo",
+      "nome": "Laicismo",
+      "tipo": "teoria_politica",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "legitimismo",
+      "nome": "Legitimismo",
+      "tipo": "vertente",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "leninismo",
+      "nome": "Leninismo",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "liberalismo",
+      "nome": "Liberalismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "liberalismo-classico",
+      "nome": "Liberalismo classico",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "liberalismo-economico",
+      "nome": "Liberalismo economico",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "liberalismo-politico",
+      "nome": "Liberalismo politico",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "liberalismo-social",
+      "nome": "Liberalismo social",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "libertarianismo",
+      "nome": "Libertarianismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "libertarianismo-de-direita",
+      "nome": "Libertarianismo de direita",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "libertarianismo-de-esquerda",
+      "nome": "Libertarianismo de esquerda",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "livre-comercio",
+      "nome": "Livre comercio",
+      "tipo": "politica_publica",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "lulismo",
+      "nome": "Lulismo",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "luxemburgismo",
+      "nome": "Luxemburgismo",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "maoismo",
+      "nome": "Maoismo",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "marxismo",
+      "nome": "Marxismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "marxismo-leninismo",
+      "nome": "Marxismo leninismo",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "mercantilismo",
+      "nome": "Mercantilismo",
+      "tipo": "teoria_economica",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "minarquismo",
+      "nome": "Minarquismo",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "monarquia-absoluta",
+      "nome": "Monarquia absoluta",
+      "tipo": "forma_governo",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "monarquia-constitucional",
+      "nome": "Monarquia constitucional",
+      "tipo": "forma_governo",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "monarquismo",
+      "nome": "Monarquismo",
+      "tipo": "forma_governo",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "monetarismo",
+      "nome": "Monetarismo",
+      "tipo": "teoria_economica",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "municipalismo",
+      "nome": "Municipalismo",
+      "tipo": "vertente",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "municipalismo-libertario",
+      "nome": "Municipalismo libertario",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "mutualismo",
+      "nome": "Mutualismo",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "nacional-desenvolvimentismo",
+      "nome": "Nacional desenvolvimentismo",
+      "tipo": "vertente",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "nacional-sindicalismo",
+      "nome": "Nacional sindicalismo",
+      "tipo": "vertente",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "nacionalismo",
+      "nome": "Nacionalismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "nacionalismo-anticolonial",
+      "nome": "Nacionalismo anticolonial",
+      "tipo": "vertente",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "nacionalismo-civico",
+      "nome": "Nacionalismo civico",
+      "tipo": "vertente",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "nacionalismo-cultural",
+      "nome": "Nacionalismo cultural",
+      "tipo": "vertente",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "nacionalismo-economico",
+      "nome": "Nacionalismo economico",
+      "tipo": "vertente",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "nacionalismo-etnico",
+      "nome": "Nacionalismo etnico",
+      "tipo": "vertente",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "nacionalismo-religioso",
+      "nome": "Nacionalismo religioso",
+      "tipo": "vertente",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "nazismo",
+      "nome": "Nazismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "neoconservadorismo",
+      "nome": "Neoconservadorismo",
+      "tipo": "vertente",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "neofascismo",
+      "nome": "Neofascismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "neoliberalismo",
+      "nome": "Neoliberalismo",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "neonazismo",
+      "nome": "Neonazismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "neorreacionarismo",
+      "nome": "Neorreacionarismo",
+      "tipo": "rotulo_analitico",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "objetivismo",
+      "nome": "Objetivismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "ordoliberalismo",
+      "nome": "Ordoliberalismo",
+      "tipo": "vertente",
+      "familias": [
+        "F03"
+      ],
+      "volume_principal": 3,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "paleoconservadorismo",
+      "nome": "Paleoconservadorismo",
+      "tipo": "vertente",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "pan-africanismo",
+      "nome": "Pan africanismo",
+      "tipo": "movimento",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "pensamento-decolonial",
+      "nome": "Pensamento decolonial",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "peronismo",
+      "nome": "Peronismo",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "piratismo-politico",
+      "nome": "Piratismo politico",
+      "tipo": "movimento",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "plataformismo",
+      "nome": "Plataformismo",
+      "tipo": "vertente",
+      "familias": [
+        "F04"
+      ],
+      "volume_principal": 4,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "populismo-digital",
+      "nome": "Populismo digital",
+      "tipo": "rotulo_analitico",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "pos-crescimento",
+      "nome": "Pos crescimento",
+      "tipo": "vertente",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "pos-humanismo-politico",
+      "nome": "Pos humanismo politico",
+      "tipo": "rotulo_analitico",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "pos-keynesianismo",
+      "nome": "Pós-keynesianismo",
+      "tipo": "teoria_economica",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "protecionismo",
+      "nome": "Protecionismo",
+      "tipo": "politica_publica",
+      "familias": [
+        "F10"
+      ],
+      "volume_principal": 10,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "reacionarismo",
+      "nome": "Reacionarismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "republicanismo",
+      "nome": "Republicanismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "republicanismo-civico",
+      "nome": "Republicanismo civico",
+      "tipo": "teoria_politica",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "secularismo",
+      "nome": "Secularismo",
+      "tipo": "teoria_politica",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "separacao-de-poderes",
+      "nome": "Separação de poderes",
+      "tipo": "teoria_politica",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "sionismo-religioso",
+      "nome": "Sionismo religioso",
+      "tipo": "doutrina_politico_religiosa",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "soberania-digital",
+      "nome": "Soberania digital",
+      "tipo": "politica_publica",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "social-democracia",
+      "nome": "Social-democracia",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "socialismo",
+      "nome": "Socialismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F01"
+      ],
+      "volume_principal": 1,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "socialismo-cientifico",
+      "nome": "Socialismo cientifico",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "socialismo-cristao",
+      "nome": "Socialismo cristao",
+      "tipo": "doutrina_politico_religiosa",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "socialismo-de-mercado",
+      "nome": "Socialismo de mercado",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "socialismo-democratico",
+      "nome": "Socialismo democratico",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "socialismo-islamico",
+      "nome": "Socialismo islamico",
+      "tipo": "doutrina_politico_religiosa",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "socialismo-libertario",
+      "nome": "Socialismo libertario",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "socialismo-utopico",
+      "nome": "Socialismo utopico",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "solarpunk-politico",
+      "nome": "Solarpunk politico",
+      "tipo": "vertente",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "strasserismo",
+      "nome": "Strasserismo",
+      "tipo": "vertente",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "tecnocracia",
+      "nome": "Tecnocracia",
+      "tipo": "teoria_politica",
+      "familias": [
+        "F07"
+      ],
+      "volume_principal": 7,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "tecnolibertarianismo",
+      "nome": "Tecnolibertarianismo",
+      "tipo": "vertente",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "tecnoprogressismo",
+      "nome": "Tecnoprogressismo",
+      "tipo": "ideologia",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "tenentismo",
+      "nome": "Tenentismo",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "teocracia",
+      "nome": "Teocracia",
+      "tipo": "regime",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "teologia-da-libertacao",
+      "nome": "Teologia da libertação",
+      "tipo": "doutrina_politico_religiosa",
+      "familias": [
+        "F08"
+      ],
+      "volume_principal": 8,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "titoismo",
+      "nome": "Titoismo",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "totalitarismo",
+      "nome": "Totalitarismo",
+      "tipo": "regime",
+      "familias": [
+        "F06"
+      ],
+      "volume_principal": 6,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "trabalhismo-brasileiro",
+      "nome": "Trabalhismo brasileiro",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "tradicionalismo-politico",
+      "nome": "Tradicionalismo politico",
+      "tipo": "ideologia",
+      "familias": [
+        "F05"
+      ],
+      "volume_principal": 5,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "transfeminismo",
+      "nome": "Transfeminismo",
+      "tipo": "vertente",
+      "familias": [
+        "F09"
+      ],
+      "volume_principal": 9,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "transumanismo-politico",
+      "nome": "Transumanismo politico",
+      "tipo": "vertente",
+      "familias": [
+        "F12"
+      ],
+      "volume_principal": 12,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "trotskismo",
+      "nome": "Trotskismo",
+      "tipo": "vertente",
+      "familias": [
+        "F02"
+      ],
+      "volume_principal": 2,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "varguismo",
+      "nome": "Varguismo",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    },
+    {
+      "id": "zapatismo",
+      "nome": "Zapatismo",
+      "tipo": "movimento",
+      "familias": [
+        "F11"
+      ],
+      "volume_principal": 11,
+      "status": "planejado",
+      "observacao": "Classificação inicial sujeita a revisão."
+    }
+  ]
+}

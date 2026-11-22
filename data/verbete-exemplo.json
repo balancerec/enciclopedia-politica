@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "id": "liberalismo",
+  "nome": "Liberalismo",
+  "tipo": "ideologia",
+  "familias": [
+    "F01"
+  ],
+  "volume_principal": 1,
+  "status": "rascunho",
+  "resumo": "Tradição política plural que destaca liberdade individual, direitos e justificação da autoridade, com divergências relevantes entre escolas quanto a mercado e justiça social.",
+  "aliases": [
+    "Liberalism"
+  ],
+  "tags": [
+    "liberdade",
+    "direitos",
+    "estado-de-direito"
+  ],
+  "criado_em": "2026-11-22",
+  "atualizado_em": "2026-11-22",
+  "autores": [],
+  "revisores": [],
+  "controversia": "media",
+  "secoes": {
+    "identidade": "Família de tradições políticas centradas na liberdade e na necessidade de justificar o poder.",
+    "origem": "Consolidou-se em debates modernos sobre tolerância, direitos, representação e governo limitado; não possui único fundador.",
+    "pensadores": "John Locke, Montesquieu, John Stuart Mill e John Rawls são referências de contextos e escolas distintos.",
+    "obras": "Dois Tratados sobre o Governo; Sobre a Liberdade; Uma Teoria da Justiça — edições específicas ainda devem ser fichadas.",
+    "filosofia": "Autonomia, liberdade e justificação da autoridade, com fundamentos morais diversos.",
+    "estado": "Constitucionalismo e direitos; liberalismos sociais admitem maior intervenção e proteção social.",
+    "economia": "Economias de mercado são frequentes, mas há desacordo sobre redistribuição e regulação.",
+    "propriedade": "Propriedade privada é relevante, com divergências sobre legitimidade, limites e distribuição.",
+    "democracia": "Muitas versões defendem pluralismo e instituições constitucionais; conceitos de democracia e liberalismo não são idênticos.",
+    "liberdades": "Proteção a liberdade de expressão, associação e consciência, sujeita a conflitos de direitos.",
+    "igualdade": "Tensões entre igualdade jurídica, igualdade de oportunidades e justiça distributiva.",
+    "religiao": "Tolerância e liberdade de consciência são temas relevantes, com variações históricas.",
+    "experiencias": "Identificar experiências constitucionais específicas exige recortes e fontes independentes.",
+    "criticas": "Críticas destacam desigualdade econômica e poder privado; respostas liberais articulam direitos, pluralismo e justiça.",
+    "subcorrentes": "Liberalismo clássico, social, político, econômico e igualitário, com sobreposições."
+  },
+  "fontes": [
+    {
+      "id": "sep-liberalism",
+      "titulo": "Liberalism — Stanford Encyclopedia of Philosophy",
+      "tipo": "secundaria",
+      "url": "https://plato.stanford.edu/entries/liberalism/"
+    }
+  ],
+  "relacoes": [
+    {
+      "tipo": "associado_a",
+      "alvo": "liberalismo-classico"
+    },
+    {
+      "tipo": "nao_confundir_com",
+      "alvo": "capitalismo"
+    }
+  ],
+  "notas_editoriais": "Exemplo demonstrativo. Não publicado: faltam fontes primárias fichadas e revisão acadêmica independente."
+}

@@ -4,7 +4,7 @@
 Manter um índice normalizado de correntes, doutrinas, movimentos e conceitos correlatos. O arquivo [catalogo.json](catalogo.json) é o índice estruturado inicial, não a obra redigida.
 
 ## Tipos
-Ver [TAXONOMIA](../docs/TAXONOMIA.md): ideologia, vertente, teoria_politica, teoria_economica, regime, forma_governo, movimento, politica_publica, doutrina_politico_religiosa e rotulo_analitico.
+Ver [TAXONOMIA](../docs/TAXONOMIA.md): ideologia, vertente, teoria_politica, teoria_economica, sistema_economico, regime, forma_governo, movimento, politica_publica, doutrina_politico_religiosa e rotulo_analitico.
 
 ## Regra de entrada
 Todo registro contém identificador, nome, tipo, família principal, volume principal e estado. A presença no catálogo não significa endosso, completude ou verificação historiográfica.
