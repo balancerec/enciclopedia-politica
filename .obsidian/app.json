@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_sistema/anexos",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_sistema/entrada"
+}
