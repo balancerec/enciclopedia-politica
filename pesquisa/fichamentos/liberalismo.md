@@ -1,3 +1,15 @@
+---
+id: fichamento-liberalismo
+classe: fichamento
+status: rascunho
+titulo: "Liberalismo — fichamento crítico inicial"
+aliases:
+  - "Fichamento do Liberalismo"
+tags:
+  - pesquisa/fichamento
+  - corrente/liberalismo
+atualizado_em: 2026-11-22
+---
 # Liberalismo — fichamento crítico inicial
 **Data:** 2026-11-22 · **Status:** pesquisa documental inicial, pendente de revisão humana independente.
 
@@ -52,3 +64,13 @@ O verbete acadêmico *Liberalism* [LIB-S01] trata a tradição liberal como plur
 **A pesquisa inicial fundamenta um rascunho extenso, não um verbete publicado.** As oito fontes estão registradas em [JSON](../fontes/liberalismo.json); verificações de autoria, datas e links foram realizadas pontualmente nos endereços apresentados.
 
 [Voltar ao verbete](../../verbetes/ideologias/liberalismo.md).
+
+## Notas de fontes no Obsidian
+- [LIB-S01](../fontes/notas/LIB-S01.md)
+- [LIB-S02](../fontes/notas/LIB-S02.md)
+- [LIB-S03](../fontes/notas/LIB-S03.md)
+- [LIB-S04](../fontes/notas/LIB-S04.md)
+- [LIB-S05](../fontes/notas/LIB-S05.md)
+- [LIB-S06](../fontes/notas/LIB-S06.md)
+- [LIB-S07](../fontes/notas/LIB-S07.md)
+- [LIB-S08](../fontes/notas/LIB-S08.md)

@@ -178,3 +178,26 @@ Veja o [registro estruturado](../../pesquisa/fontes/liberalismo.json) para statu
 - [Mapa do Volume I](../../mapas/VOLUME-01.md)
 - [Índice de conceitos](../../mapas/INDICE-CONCEITOS.md)
 - [Painel de pesquisa](../../painel/PAINEL-PESQUISA.md)
+
+## Conexões de pesquisa no Obsidian
+
+### Pensadores
+- [John Locke](../../pesquisa/autores/john-locke.md)
+- [John Stuart Mill](../../pesquisa/autores/john-stuart-mill.md)
+- [John Rawls](../../pesquisa/autores/john-rawls.md)
+
+### Obras
+- [Two Treatises of Government](../../pesquisa/obras/two-treatises-of-government.md)
+- [On Liberty](../../pesquisa/obras/on-liberty.md)
+- [A Theory of Justice](../../pesquisa/obras/a-theory-of-justice.md)
+- [Political Liberalism](../../pesquisa/obras/political-liberalism.md)
+
+### Fontes individuais
+- [LIB-S01](../../pesquisa/fontes/notas/LIB-S01.md)
+- [LIB-S02](../../pesquisa/fontes/notas/LIB-S02.md)
+- [LIB-S03](../../pesquisa/fontes/notas/LIB-S03.md)
+- [LIB-S04](../../pesquisa/fontes/notas/LIB-S04.md)
+- [LIB-S05](../../pesquisa/fontes/notas/LIB-S05.md)
+- [LIB-S06](../../pesquisa/fontes/notas/LIB-S06.md)
+- [LIB-S07](../../pesquisa/fontes/notas/LIB-S07.md)
+- [LIB-S08](../../pesquisa/fontes/notas/LIB-S08.md)

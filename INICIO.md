@@ -38,6 +38,9 @@ atualizado_em: 2026-11-22
 11. [XI — Brasil e América Latina](mapas/VOLUME-11.md)
 12. [XII — Ideologias contemporâneas](mapas/VOLUME-12.md)
 
+## Autores e obras
+- [Mapa de autores, obras e fontes](mapas/AUTORES-E-OBRAS.md)
+
 ## Pesquisa e metodologia
 - [Metodologia](docs/METODOLOGIA.md) · [Taxonomia](docs/TAXONOMIA.md) · [Bibliografia](docs/BIBLIOGRAFIA.md)
 - [Governança](docs/GOVERNANCA.md) · [Modelo de verbete](docs/MODELO_VERBETE.md)
