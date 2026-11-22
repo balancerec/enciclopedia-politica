@@ -1,3 +1,13 @@
+---
+id: doc-arquitetura
+classe: documentacao
+titulo: "Arquitetura documental e técnica — proposta V1.0"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Arquitetura documental e técnica — proposta V1.0
 
 ## Estado real
@@ -124,3 +134,5 @@ Fase 1, publicação textual; fase 2, comparador e mapas de influências; fase 3
 - `scripts/validar_obsidian.py` verifica coerência estrutural. Migração automática futura deve evitar IDs duplicados.
 
 **Decisão atual:** arquivos Markdown relativos como interoperabilidade padrão Obsidian/GitHub. Wikilinks e embeds específicos são usados apenas nos painéis onde o recurso é realmente necessário.
+
+[Início do vault Obsidian](../INICIO.md)

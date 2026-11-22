@@ -1,3 +1,13 @@
+---
+id: doc-faq
+classe: documentacao
+titulo: "Perguntas frequentes"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Perguntas frequentes
 
 ## A enciclopédia defende alguma ideologia?
@@ -32,3 +42,5 @@ Sim. Ver CONTRIBUTING.md e as regras de fontes, revisão e governança.
 
 ## Posso usar textos e imagens comercialmente?
 A licença ainda não foi definida. A existência do repositório público não autoriza reprodução indiscriminada; ver README.
+
+[Início do vault Obsidian](../INICIO.md)

@@ -1,3 +1,13 @@
+---
+id: doc-decisoes-adr-0003-plataforma-web-pendente
+classe: decisao
+titulo: "ADR-0003 — Plataforma estática de publicação"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # ADR-0003 — Plataforma estática de publicação
 
 - Estado: **proposto, não aprovado**.
@@ -17,3 +27,5 @@ Compatibilidade com GitHub Pages, manutenção, performance mobile, busca, supor
 
 ## Estado
 Nenhum frontend, dependência, deploy ou workflow foi implementado por esta ADR.
+
+[Início do vault Obsidian](../../INICIO.md)

@@ -1,3 +1,13 @@
+---
+id: doc-glossario
+classe: documentacao
+titulo: "Glossário crítico de conceitos"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Glossário crítico de conceitos
 
 **Ideologia:** conjunto estruturado de crenças, valores e orientações políticas; sua delimitação acadêmica é disputada.
@@ -55,3 +65,5 @@
 **Anarcocapitalismo:** corrente libertária pró-propriedade privada que rejeita o Estado; seu pertencimento ao anarquismo é contestado pela tradição anarquista socialista.
 
 **Nota:** definições são pontos de entrada, não substituem os verbetes completos e suas referências.
+
+[Início do vault Obsidian](../INICIO.md)

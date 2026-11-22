@@ -1,3 +1,13 @@
+---
+id: doc-decisoes-adr-0002-licenciamento-pendente
+classe: decisao
+titulo: "ADR-0002 — Licenciamento editorial e técnico"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # ADR-0002 — Licenciamento editorial e técnico
 
 - Estado: **pendente**.
@@ -20,3 +30,5 @@ Qual licença aplicar ao texto original, ao código, às imagens e aos dados?
 
 ## Próximo passo
 Selecionar licença(s), registrar decisão e criar os arquivos oficiais após revisar o escopo jurídico.
+
+[Início do vault Obsidian](../../INICIO.md)

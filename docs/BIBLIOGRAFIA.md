@@ -1,3 +1,13 @@
+---
+id: doc-bibliografia
+classe: documentacao
+titulo: "Bibliografia e programa de leitura — base inicial"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Bibliografia e programa de leitura — base inicial
 
 **Status:** bibliografia de partida; referências abaixo são sugestões de investigação, não prova de leitura integral ou de revisão de todas as edições.
@@ -78,3 +88,5 @@ Ver [REGRAS_DE_CITACAO.md](REGRAS_DE_CITACAO.md).
 | LIB-S08 | [Locke — *Letter Concerning Toleration* e *Second Treatise*, excertos](https://constitutioncenter.org/the-constitution/historic-document-library/detail/john-locke-a-letter-concerning-toleration-1689-and-two-treatises-on-government-1690) | Primária | Tolerância e direitos |
 
 Os identificadores, metadados e limites da inspeção estão em [pesquisa/fontes/liberalismo.json](../pesquisa/fontes/liberalismo.json) e no [fichamento](../pesquisa/fichamentos/liberalismo.md). **Não supor revisão humana nem leitura integral de livros modernos.**
+
+[Início do vault Obsidian](../INICIO.md)
