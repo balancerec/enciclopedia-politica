@@ -1,3 +1,13 @@
+---
+id: doc-regras-de-citacao
+classe: documentacao
+titulo: "Regras de citação, atribuição e direitos autorais"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Regras de citação, atribuição e direitos autorais
 
 ## Objetivo
@@ -28,3 +38,5 @@ Se link quebrar: registrar URL original, DOI/ISBN e alternativa arquivada legalm
 
 ## Auditoria mínima
 Quem revisou, quando, quais fontes, mudança de interpretação e justificativa. Guardar no histórico Git e notas da revisão.
+
+[Início do vault Obsidian](../INICIO.md)

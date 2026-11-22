@@ -1,3 +1,13 @@
+---
+id: doc-matriz-comparativa
+classe: documentacao
+titulo: "Comparações multidimensionais — modelo analítico"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Comparações multidimensionais — modelo analítico
 
 ## Princípio
@@ -38,3 +48,5 @@ Ideologias políticas não cabem em um eixo único. Uma comparação válida exi
 
 ## Regras éticas
 Não tratar direitos humanos como escolha opcional do painel. Violência documentada, perseguições e exclusão jurídica são evidências históricas a apresentar, não opiniões a equilibrar.
+
+[Início do vault Obsidian](../INICIO.md)

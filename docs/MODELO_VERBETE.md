@@ -1,3 +1,13 @@
+---
+id: doc-modelo-verbete
+classe: documentacao
+titulo: "Ficha canônica de verbete — 15 dimensões"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Ficha canônica de verbete — 15 dimensões
 
 Todo verbete usa frontmatter/JSON validável e 15 seções editoriais. A publicação é condicionada à revisão, não ao simples preenchimento de campos.
@@ -46,3 +56,5 @@ Consultar [verbetes/_TEMPLATE.md](../verbetes/_TEMPLATE.md) e [schemas/verbete.s
 
 ## Auditoria antes da publicação
 Verificar classificação, precisão histórica, autores, distinção entre experiência e teoria, bibliografia, contra-argumentos, ortografia, formatação e acessibilidade.
+
+[Início do vault Obsidian](../INICIO.md)

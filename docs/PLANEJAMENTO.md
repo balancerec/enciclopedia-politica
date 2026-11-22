@@ -1,3 +1,13 @@
+---
+id: doc-planejamento
+classe: documentacao
+titulo: "Planejamento editorial e checklist — V1.2 (pesquisa inicial)"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Planejamento editorial e checklist — V1.2 (pesquisa inicial)
 Atualizado em: 2026-11-22. Fonte de verdade para o progresso do projeto.
 
@@ -116,3 +126,5 @@ Atualizado em: 2026-11-22. Fonte de verdade para o progresso do projeto.
 | 2026-11-22 | Documentação fundacional, índices e estrutura de dados | Concluído como estrutura documental |
 | A definir | Primeira revisão bibliográfica colaborativa | Pendente |
 | A definir | Primeiros verbetes definitivamente publicados | Pendente |
+
+[Início do vault Obsidian](../INICIO.md)

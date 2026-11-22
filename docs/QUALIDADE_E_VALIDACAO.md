@@ -1,3 +1,13 @@
+---
+id: doc-qualidade-e-validacao
+classe: documentacao
+titulo: "Qualidade e validação — critérios de aceite"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Qualidade e validação — critérios de aceite
 
 ## Qualidade editorial
@@ -45,3 +55,5 @@
 
 ## Critério mínimo de lançamento do website
 100% das rotas públicas sem erro, no mínimo o volume inicial revisado, busca funcional, referências legíveis, política de direitos definida, responsividade e avaliação de acessibilidade. Metas quantitativas adicionais a estabelecer com medições reais.
+
+[Início do vault Obsidian](../INICIO.md)

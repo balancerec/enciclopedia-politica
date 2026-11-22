@@ -1,3 +1,13 @@
+---
+id: doc-metodologia
+classe: documentacao
+titulo: "Metodologia historiográfica e de análise política"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Metodologia historiográfica e de análise política
 
 ## Unidade de análise
@@ -59,3 +69,5 @@ Português do Brasil. Primeiro definir de modo claro; depois detalhar debates. E
 - Routledge Encyclopedia of Philosophy: https://www.rep.routledge.com/
 - Internet Encyclopedia of Philosophy: https://iep.utm.edu/
 - Catálogo de obras primárias com edição e página: BIBLIOGRAFIA.md
+
+[Início do vault Obsidian](../INICIO.md)

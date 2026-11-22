@@ -1,3 +1,13 @@
+---
+id: doc-governanca
+classe: documentacao
+titulo: "Governança editorial, correções e controvérsias"
+status: ativo
+aliases: []
+tags:
+  - enciclopedia/documentacao
+atualizado_em: 2026-11-22
+---
 # Governança editorial, correções e controvérsias
 
 ## Papéis
@@ -41,3 +51,5 @@ Conteúdo assistido por IA deve ter fontes verificadas por humano antes de ser c
 
 ## Política de correção
 Errata com descrição, trecho alterado, evidência, data e vínculo ao commit. Não apagar registros de decisão salvo razões legais/privacidade.
+
+[Início do vault Obsidian](../INICIO.md)
