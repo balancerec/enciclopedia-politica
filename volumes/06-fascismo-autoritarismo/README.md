@@ -1,3 +1,14 @@
+---
+id: sumario-06
+classe: sumario
+volume_numero: 6
+status: planejado
+aliases:
+  - "Sumário do Volume 6"
+tags:
+  - enciclopedia/sumario
+  - volume/06
+---
 # Volume 6 — Fascismo, nazismo e autoritarismos
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -48,3 +59,5 @@ Examina movimentos fascistas e nazistas com perspectiva crítica e distingue dou
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 6](../../mapas/VOLUME-06.md)

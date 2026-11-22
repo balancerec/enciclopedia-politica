@@ -1,3 +1,14 @@
+---
+id: sumario-01
+classe: sumario
+volume_numero: 1
+status: planejado
+aliases:
+  - "Sumário do Volume 1"
+tags:
+  - enciclopedia/sumario
+  - volume/01
+---
 # Volume 1 — Fundamentos das grandes ideologias
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -52,3 +63,5 @@ Introduz o vocabulário da filosofia política, distinguindo ideologia, teoria, 
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 1](../../mapas/VOLUME-01.md)

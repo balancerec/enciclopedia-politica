@@ -1,3 +1,14 @@
+---
+id: sumario-02
+classe: sumario
+volume_numero: 2
+status: planejado
+aliases:
+  - "Sumário do Volume 2"
+tags:
+  - enciclopedia/sumario
+  - volume/02
+---
 # Volume 2 — Socialismo, comunismo e marxismos
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -51,3 +62,5 @@ Estuda alternativas socialistas ao capitalismo e disputas sobre propriedade, pod
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 2](../../mapas/VOLUME-02.md)

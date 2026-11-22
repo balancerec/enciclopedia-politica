@@ -1,3 +1,14 @@
+---
+id: sumario-04
+classe: sumario
+volume_numero: 4
+status: planejado
+aliases:
+  - "Sumário do Volume 4"
+tags:
+  - enciclopedia/sumario
+  - volume/04
+---
 # Volume 4 — Anarquismo e teorias antiautoritárias
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -49,3 +60,5 @@ Apresenta críticas à autoridade coercitiva, federalismo de base, organização
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 4](../../mapas/VOLUME-04.md)

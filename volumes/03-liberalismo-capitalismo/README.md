@@ -1,3 +1,14 @@
+---
+id: sumario-03
+classe: sumario
+volume_numero: 3
+status: planejado
+aliases:
+  - "Sumário do Volume 3"
+tags:
+  - enciclopedia/sumario
+  - volume/03
+---
 # Volume 3 — Liberalismo, libertarianismo e capitalismo
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -50,3 +61,5 @@ Distingue ideias liberais de instituições e modelos de mercado, analisando seu
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 3](../../mapas/VOLUME-03.md)

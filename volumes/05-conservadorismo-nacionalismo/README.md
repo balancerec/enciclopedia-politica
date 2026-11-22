@@ -1,3 +1,14 @@
+---
+id: sumario-05
+classe: sumario
+volume_numero: 5
+status: planejado
+aliases:
+  - "Sumário do Volume 5"
+tags:
+  - enciclopedia/sumario
+  - volume/05
+---
 # Volume 5 — Conservadorismo, nacionalismo e tradicionalismo
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -50,3 +61,5 @@ Diferencia tradição, prudência institucional, identidade nacional, projetos d
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 5](../../mapas/VOLUME-05.md)
