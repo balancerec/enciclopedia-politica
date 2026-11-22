@@ -1,3 +1,14 @@
+---
+id: sumario-11
+classe: sumario
+volume_numero: 11
+status: planejado
+aliases:
+  - "Sumário do Volume 11"
+tags:
+  - enciclopedia/sumario
+  - volume/11
+---
 # Volume 11 — Brasil e América Latina
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -52,3 +63,5 @@ Investiga tradições políticas regionais considerando estruturas sociais, ator
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 11](../../mapas/VOLUME-11.md)

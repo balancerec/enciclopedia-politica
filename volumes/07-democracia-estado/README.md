@@ -1,3 +1,14 @@
+---
+id: sumario-07
+classe: sumario
+volume_numero: 7
+status: planejado
+aliases:
+  - "Sumário do Volume 7"
+tags:
+  - enciclopedia/sumario
+  - volume/07
+---
 # Volume 7 — Democracia, republicanismo e Estado
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -51,3 +62,5 @@ Analisa participação, representação, soberania, instituições, direitos, co
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 7](../../mapas/VOLUME-07.md)

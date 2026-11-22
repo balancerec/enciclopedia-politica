@@ -1,3 +1,14 @@
+---
+id: sumario-09
+classe: sumario
+volume_numero: 9
+status: planejado
+aliases:
+  - "Sumário do Volume 9"
+tags:
+  - enciclopedia/sumario
+  - volume/09
+---
 # Volume 9 — Feminismos, ecologismos e emancipação
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -53,3 +64,5 @@ Analisa teorias e movimentos sobre gênero, ambiente, justiça social, coloniali
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 9](../../mapas/VOLUME-09.md)

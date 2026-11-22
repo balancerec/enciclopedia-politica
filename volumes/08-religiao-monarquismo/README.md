@@ -1,3 +1,14 @@
+---
+id: sumario-08
+classe: sumario
+volume_numero: 8
+status: planejado
+aliases:
+  - "Sumário do Volume 8"
+tags:
+  - enciclopedia/sumario
+  - volume/08
+---
 # Volume 8 — Religião, monarquismo e doutrinas políticas
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -52,3 +63,5 @@ Compara arranjos de religião e governo, direitos de consciência e tradições 
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 8](../../mapas/VOLUME-08.md)

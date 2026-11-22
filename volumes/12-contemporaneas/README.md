@@ -1,3 +1,14 @@
+---
+id: sumario-12
+classe: sumario
+volume_numero: 12
+status: planejado
+aliases:
+  - "Sumário do Volume 12"
+tags:
+  - enciclopedia/sumario
+  - volume/12
+---
 # Volume 12 — Tecnologia e ideologias contemporâneas
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -53,3 +64,5 @@ Documenta formulações políticas recentes e debates sobre IA, dados, plataform
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 12](../../mapas/VOLUME-12.md)

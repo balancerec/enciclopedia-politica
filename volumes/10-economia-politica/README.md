@@ -1,3 +1,14 @@
+---
+id: sumario-10
+classe: sumario
+volume_numero: 10
+status: planejado
+aliases:
+  - "Sumário do Volume 10"
+tags:
+  - enciclopedia/sumario
+  - volume/10
+---
 # Volume 10 — Economia política e produção
 
 **Situação:** índice editorial criado; conteúdo histórico e revisão humana pendentes.
@@ -52,3 +63,5 @@ Distingue teorias econômicas, políticas de governo e sistemas de propriedade e
 Consulte [metodologia](../../docs/METODOLOGIA.md), [modelo de verbete](../../docs/MODELO_VERBETE.md) e [checklist geral](../../docs/PLANEJAMENTO.md).
 
 > Nomes nesta lista são tópicos de investigação, não classificações definitivamente confirmadas. Entradas que surgem em vários volumes terão apenas uma URL canônica.
+
+[Mapa Obsidian do Volume 10](../../mapas/VOLUME-10.md)
