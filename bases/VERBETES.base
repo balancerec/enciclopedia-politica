@@ -1,0 +1,53 @@
+filters:
+  and:
+    - 'file.ext == "md"'
+    - 'classe == "verbete"'
+properties:
+  file.name:
+    displayName: Nota
+  nome:
+    displayName: Conceito
+  tipo:
+    displayName: Tipo
+  status:
+    displayName: Estado editorial
+  volume_principal:
+    displayName: Volume
+  familias:
+    displayName: Famílias
+views:
+  - type: table
+    name: "Todos os conceitos"
+    order:
+      - file.name
+      - nome
+      - status
+      - tipo
+      - volume_principal
+  - type: table
+    name: "Rascunhos"
+    filters:
+      and:
+        - 'status == "rascunho"'
+    order:
+      - file.name
+      - nome
+      - volume_principal
+  - type: table
+    name: "Planejados"
+    filters:
+      and:
+        - 'status == "planejado"'
+    order:
+      - file.name
+      - nome
+      - volume_principal
+  - type: table
+    name: "Publicados"
+    filters:
+      and:
+        - 'status == "publicado"'
+    order:
+      - file.name
+      - nome
+      - volume_principal

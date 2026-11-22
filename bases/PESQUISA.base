@@ -1,0 +1,23 @@
+filters:
+  and:
+    - 'file.ext == "md"'
+    - or:
+        - 'classe == "fichamento"'
+        - 'classe == "fonte"'
+        - 'classe == "autor"'
+        - 'classe == "obra"'
+views:
+  - type: table
+    name: "Fontes e fichamentos"
+    order:
+      - file.name
+      - classe
+      - status
+  - type: table
+    name: "Fichamentos"
+    filters:
+      and:
+        - 'classe == "fichamento"'
+    order:
+      - file.name
+      - status

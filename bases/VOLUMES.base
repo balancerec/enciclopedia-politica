@@ -1,0 +1,21 @@
+filters:
+  and:
+    - 'file.ext == "md"'
+    - 'classe == "volume"'
+properties:
+  file.name:
+    displayName: Volume
+  volume_numero:
+    displayName: Número
+  titulo:
+    displayName: Título
+  status:
+    displayName: Estado
+views:
+  - type: table
+    name: "Os 12 volumes"
+    order:
+      - volume_numero
+      - file.name
+      - titulo
+      - status

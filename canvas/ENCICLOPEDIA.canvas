@@ -1,0 +1,183 @@
+{
+  "nodes": [
+    {
+      "id": "centro",
+      "type": "file",
+      "file": "INICIO.md",
+      "x": 630,
+      "y": -390,
+      "width": 390,
+      "height": 250
+    },
+    {
+      "id": "v1",
+      "type": "file",
+      "file": "mapas/VOLUME-01.md",
+      "x": 0,
+      "y": 0,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v2",
+      "type": "file",
+      "file": "mapas/VOLUME-02.md",
+      "x": 450,
+      "y": 0,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v3",
+      "type": "file",
+      "file": "mapas/VOLUME-03.md",
+      "x": 900,
+      "y": 0,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v4",
+      "type": "file",
+      "file": "mapas/VOLUME-04.md",
+      "x": 1350,
+      "y": 0,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v5",
+      "type": "file",
+      "file": "mapas/VOLUME-05.md",
+      "x": 0,
+      "y": 355,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v6",
+      "type": "file",
+      "file": "mapas/VOLUME-06.md",
+      "x": 450,
+      "y": 355,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v7",
+      "type": "file",
+      "file": "mapas/VOLUME-07.md",
+      "x": 900,
+      "y": 355,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v8",
+      "type": "file",
+      "file": "mapas/VOLUME-08.md",
+      "x": 1350,
+      "y": 355,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v9",
+      "type": "file",
+      "file": "mapas/VOLUME-09.md",
+      "x": 0,
+      "y": 710,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v10",
+      "type": "file",
+      "file": "mapas/VOLUME-10.md",
+      "x": 450,
+      "y": 710,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v11",
+      "type": "file",
+      "file": "mapas/VOLUME-11.md",
+      "x": 900,
+      "y": 710,
+      "width": 370,
+      "height": 230
+    },
+    {
+      "id": "v12",
+      "type": "file",
+      "file": "mapas/VOLUME-12.md",
+      "x": 1350,
+      "y": 710,
+      "width": 370,
+      "height": 230
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "centro",
+      "toNode": "v1"
+    },
+    {
+      "id": "e2",
+      "fromNode": "centro",
+      "toNode": "v2"
+    },
+    {
+      "id": "e3",
+      "fromNode": "centro",
+      "toNode": "v3"
+    },
+    {
+      "id": "e4",
+      "fromNode": "centro",
+      "toNode": "v4"
+    },
+    {
+      "id": "e5",
+      "fromNode": "centro",
+      "toNode": "v5"
+    },
+    {
+      "id": "e6",
+      "fromNode": "centro",
+      "toNode": "v6"
+    },
+    {
+      "id": "e7",
+      "fromNode": "centro",
+      "toNode": "v7"
+    },
+    {
+      "id": "e8",
+      "fromNode": "centro",
+      "toNode": "v8"
+    },
+    {
+      "id": "e9",
+      "fromNode": "centro",
+      "toNode": "v9"
+    },
+    {
+      "id": "e10",
+      "fromNode": "centro",
+      "toNode": "v10"
+    },
+    {
+      "id": "e11",
+      "fromNode": "centro",
+      "toNode": "v11"
+    },
+    {
+      "id": "e12",
+      "fromNode": "centro",
+      "toNode": "v12"
+    }
+  ]
+}

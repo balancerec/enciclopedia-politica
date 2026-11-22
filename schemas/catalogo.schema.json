@@ -85,6 +85,10 @@
             "items": {
               "type": "string"
             }
+          },
+          "nota": {
+            "type": "string",
+            "pattern": "^verbetes/(?:ideologias|conceitos)/[a-z0-9-]+\\.md$"
           }
         }
       }

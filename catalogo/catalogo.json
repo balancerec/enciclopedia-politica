@@ -11,7 +11,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/aceleracionismo.md"
     },
     {
       "id": "aceleracionismo-de-direita",
@@ -22,7 +23,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/aceleracionismo-de-direita.md"
     },
     {
       "id": "aceleracionismo-de-esquerda",
@@ -33,7 +35,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/aceleracionismo-de-esquerda.md"
     },
     {
       "id": "agorismo",
@@ -44,7 +47,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/agorismo.md"
     },
     {
       "id": "anarcocapitalismo",
@@ -55,7 +59,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/anarcocapitalismo.md"
     },
     {
       "id": "anarcocomunismo",
@@ -66,7 +71,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/anarcocomunismo.md"
     },
     {
       "id": "anarcofeminismo",
@@ -77,7 +83,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/anarcofeminismo.md"
     },
     {
       "id": "anarcoprimitivismo",
@@ -88,7 +95,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/anarcoprimitivismo.md"
     },
     {
       "id": "anarcossindicalismo",
@@ -99,7 +107,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/anarcossindicalismo.md"
     },
     {
       "id": "anarquismo",
@@ -111,7 +120,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/anarquismo.md"
     },
     {
       "id": "anarquismo-coletivista",
@@ -122,7 +132,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/anarquismo-coletivista.md"
     },
     {
       "id": "anarquismo-egoista",
@@ -133,7 +144,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/anarquismo-egoista.md"
     },
     {
       "id": "anarquismo-individualista",
@@ -144,7 +156,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/anarquismo-individualista.md"
     },
     {
       "id": "anarquismo-verde",
@@ -155,7 +168,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/anarquismo-verde.md"
     },
     {
       "id": "anticolonialismo",
@@ -166,7 +180,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/anticolonialismo.md"
     },
     {
       "id": "autoritarismo",
@@ -177,7 +192,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/autoritarismo.md"
     },
     {
       "id": "bolivarianismo",
@@ -188,7 +204,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/bolivarianismo.md"
     },
     {
       "id": "bolsonarismo",
@@ -199,7 +216,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/bolsonarismo.md"
     },
     {
       "id": "brizolismo",
@@ -210,7 +228,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/brizolismo.md"
     },
     {
       "id": "capitalismo",
@@ -222,7 +241,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/capitalismo.md"
     },
     {
       "id": "capitalismo-de-estado",
@@ -234,7 +254,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/capitalismo-de-estado.md"
     },
     {
       "id": "cepalismo",
@@ -245,7 +266,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/cepalismo.md"
     },
     {
       "id": "chavismo",
@@ -256,7 +278,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/chavismo.md"
     },
     {
       "id": "ciberfeminismo",
@@ -267,7 +290,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/ciberfeminismo.md"
     },
     {
       "id": "comunismo",
@@ -278,7 +302,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/comunismo.md"
     },
     {
       "id": "comunismo-cristao",
@@ -289,7 +314,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/comunismo-cristao.md"
     },
     {
       "id": "comunismo-de-conselhos",
@@ -300,7 +326,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/comunismo-de-conselhos.md"
     },
     {
       "id": "confederalismo",
@@ -311,7 +338,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/confederalismo.md"
     },
     {
       "id": "confederalismo-democratico",
@@ -322,7 +350,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/confederalismo-democratico.md"
     },
     {
       "id": "conservadorismo",
@@ -334,7 +363,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/conservadorismo.md"
     },
     {
       "id": "conservadorismo-liberal",
@@ -345,7 +375,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/conservadorismo-liberal.md"
     },
     {
       "id": "conservadorismo-social",
@@ -356,7 +387,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/conservadorismo-social.md"
     },
     {
       "id": "conservadorismo-tradicionalista",
@@ -367,7 +399,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/conservadorismo-tradicionalista.md"
     },
     {
       "id": "constitucionalismo",
@@ -378,7 +411,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/constitucionalismo.md"
     },
     {
       "id": "cooperativismo",
@@ -389,7 +423,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/cooperativismo.md"
     },
     {
       "id": "corporativismo-autoritario",
@@ -400,7 +435,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/corporativismo-autoritario.md"
     },
     {
       "id": "criptoanarquismo",
@@ -411,7 +447,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/criptoanarquismo.md"
     },
     {
       "id": "decrescimento",
@@ -422,7 +459,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/decrescimento.md"
     },
     {
       "id": "democracia",
@@ -434,7 +472,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/democracia.md"
     },
     {
       "id": "democracia-crista",
@@ -445,7 +484,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/democracia-crista.md"
     },
     {
       "id": "democracia-deliberativa",
@@ -456,7 +496,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/democracia-deliberativa.md"
     },
     {
       "id": "democracia-direta",
@@ -467,7 +508,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/democracia-direta.md"
     },
     {
       "id": "democracia-liberal",
@@ -478,7 +520,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/democracia-liberal.md"
     },
     {
       "id": "democracia-participativa",
@@ -489,7 +532,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/democracia-participativa.md"
     },
     {
       "id": "democracia-radical",
@@ -500,7 +544,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/democracia-radical.md"
     },
     {
       "id": "democracia-representativa",
@@ -511,7 +556,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/democracia-representativa.md"
     },
     {
       "id": "desenvolvimentismo",
@@ -523,7 +569,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/desenvolvimentismo.md"
     },
     {
       "id": "distributismo",
@@ -535,7 +582,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/distributismo.md"
     },
     {
       "id": "ditadura-militar",
@@ -546,7 +594,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/ditadura-militar.md"
     },
     {
       "id": "ecoanarquismo",
@@ -557,7 +606,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/ecoanarquismo.md"
     },
     {
       "id": "ecofeminismo",
@@ -568,7 +618,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/ecofeminismo.md"
     },
     {
       "id": "ecologia-profunda",
@@ -579,7 +630,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/ecologia-profunda.md"
     },
     {
       "id": "ecologia-social",
@@ -590,7 +642,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/ecologia-social.md"
     },
     {
       "id": "ecologismo-politico",
@@ -602,7 +655,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/ecologismo-politico.md"
     },
     {
       "id": "ecomodernismo",
@@ -613,7 +667,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/ecomodernismo.md"
     },
     {
       "id": "economia-mista",
@@ -624,7 +679,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/economia-mista.md"
     },
     {
       "id": "economia-planejada",
@@ -635,7 +691,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/economia-planejada.md"
     },
     {
       "id": "ecossocialismo",
@@ -647,7 +704,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/ecossocialismo.md"
     },
     {
       "id": "epistocracia",
@@ -658,7 +716,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/epistocracia.md"
     },
     {
       "id": "especifismo",
@@ -669,7 +728,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/especifismo.md"
     },
     {
       "id": "eurocomunismo",
@@ -680,7 +740,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/eurocomunismo.md"
     },
     {
       "id": "falangismo",
@@ -691,7 +752,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/falangismo.md"
     },
     {
       "id": "fascismo",
@@ -703,7 +765,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/fascismo.md"
     },
     {
       "id": "fascismo-clerical",
@@ -714,7 +777,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/fascismo-clerical.md"
     },
     {
       "id": "federalismo",
@@ -725,7 +789,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/federalismo.md"
     },
     {
       "id": "feminismo-interseccional",
@@ -736,7 +801,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/feminismo-interseccional.md"
     },
     {
       "id": "feminismo-liberal",
@@ -747,7 +813,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/feminismo-liberal.md"
     },
     {
       "id": "feminismo-negro",
@@ -758,7 +825,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/feminismo-negro.md"
     },
     {
       "id": "feminismo-politico",
@@ -770,7 +838,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/feminismo-politico.md"
     },
     {
       "id": "feminismo-radical",
@@ -781,7 +850,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/feminismo-radical.md"
     },
     {
       "id": "feminismo-socialista",
@@ -792,7 +862,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/feminismo-socialista.md"
     },
     {
       "id": "georgismo",
@@ -804,7 +875,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/georgismo.md"
     },
     {
       "id": "governanca-algoritmica",
@@ -815,7 +887,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/governanca-algoritmica.md"
     },
     {
       "id": "hindutva",
@@ -826,7 +899,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/hindutva.md"
     },
     {
       "id": "indigenismo-politico",
@@ -838,7 +912,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/indigenismo-politico.md"
     },
     {
       "id": "integralismo-brasileiro",
@@ -850,7 +925,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/integralismo-brasileiro.md"
     },
     {
       "id": "islamismo-politico",
@@ -861,7 +937,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/islamismo-politico.md"
     },
     {
       "id": "juche",
@@ -872,7 +949,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/juche.md"
     },
     {
       "id": "justica-climatica",
@@ -883,7 +961,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/justica-climatica.md"
     },
     {
       "id": "keynesianismo",
@@ -894,7 +973,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/keynesianismo.md"
     },
     {
       "id": "kirchnerismo",
@@ -905,7 +985,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/kirchnerismo.md"
     },
     {
       "id": "laicismo",
@@ -916,7 +997,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/laicismo.md"
     },
     {
       "id": "legitimismo",
@@ -927,7 +1009,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/legitimismo.md"
     },
     {
       "id": "leninismo",
@@ -938,7 +1021,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/leninismo.md"
     },
     {
       "id": "liberalismo",
@@ -950,7 +1034,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Pesquisa inicial aprofundada V1.1, com oito fontes documentadas; sem revisão humana independente. Rascunho, não publicado."
+      "observacao": "Pesquisa inicial aprofundada V1.1, com oito fontes documentadas; sem revisão humana independente. Rascunho, não publicado.",
+      "nota": "verbetes/ideologias/liberalismo.md"
     },
     {
       "id": "liberalismo-classico",
@@ -961,7 +1046,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/liberalismo-classico.md"
     },
     {
       "id": "liberalismo-economico",
@@ -972,7 +1058,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/liberalismo-economico.md"
     },
     {
       "id": "liberalismo-politico",
@@ -983,7 +1070,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/liberalismo-politico.md"
     },
     {
       "id": "liberalismo-social",
@@ -994,7 +1082,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/liberalismo-social.md"
     },
     {
       "id": "libertarianismo",
@@ -1005,7 +1094,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/libertarianismo.md"
     },
     {
       "id": "libertarianismo-de-direita",
@@ -1016,7 +1106,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/libertarianismo-de-direita.md"
     },
     {
       "id": "libertarianismo-de-esquerda",
@@ -1027,7 +1118,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/libertarianismo-de-esquerda.md"
     },
     {
       "id": "livre-comercio",
@@ -1038,7 +1130,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/livre-comercio.md"
     },
     {
       "id": "lulismo",
@@ -1049,7 +1142,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/lulismo.md"
     },
     {
       "id": "luxemburgismo",
@@ -1060,7 +1154,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/luxemburgismo.md"
     },
     {
       "id": "maoismo",
@@ -1071,7 +1166,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/maoismo.md"
     },
     {
       "id": "marxismo",
@@ -1082,7 +1178,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/marxismo.md"
     },
     {
       "id": "marxismo-leninismo",
@@ -1093,7 +1190,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/marxismo-leninismo.md"
     },
     {
       "id": "mercantilismo",
@@ -1104,7 +1202,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/mercantilismo.md"
     },
     {
       "id": "minarquismo",
@@ -1115,7 +1214,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/minarquismo.md"
     },
     {
       "id": "monarquia-absoluta",
@@ -1126,7 +1226,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/monarquia-absoluta.md"
     },
     {
       "id": "monarquia-constitucional",
@@ -1137,7 +1238,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/monarquia-constitucional.md"
     },
     {
       "id": "monarquismo",
@@ -1148,7 +1250,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/monarquismo.md"
     },
     {
       "id": "monetarismo",
@@ -1159,7 +1262,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/monetarismo.md"
     },
     {
       "id": "municipalismo",
@@ -1170,7 +1274,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/municipalismo.md"
     },
     {
       "id": "municipalismo-libertario",
@@ -1181,7 +1286,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/municipalismo-libertario.md"
     },
     {
       "id": "mutualismo",
@@ -1192,7 +1298,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/mutualismo.md"
     },
     {
       "id": "nacional-desenvolvimentismo",
@@ -1204,7 +1311,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/nacional-desenvolvimentismo.md"
     },
     {
       "id": "nacional-sindicalismo",
@@ -1215,7 +1323,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/nacional-sindicalismo.md"
     },
     {
       "id": "nacionalismo",
@@ -1227,7 +1336,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/nacionalismo.md"
     },
     {
       "id": "nacionalismo-anticolonial",
@@ -1238,7 +1348,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/nacionalismo-anticolonial.md"
     },
     {
       "id": "nacionalismo-civico",
@@ -1249,7 +1360,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/nacionalismo-civico.md"
     },
     {
       "id": "nacionalismo-cultural",
@@ -1260,7 +1372,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/nacionalismo-cultural.md"
     },
     {
       "id": "nacionalismo-economico",
@@ -1271,7 +1384,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/nacionalismo-economico.md"
     },
     {
       "id": "nacionalismo-etnico",
@@ -1282,7 +1396,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/nacionalismo-etnico.md"
     },
     {
       "id": "nacionalismo-religioso",
@@ -1293,7 +1408,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/nacionalismo-religioso.md"
     },
     {
       "id": "nazismo",
@@ -1304,7 +1420,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/nazismo.md"
     },
     {
       "id": "neoconservadorismo",
@@ -1315,7 +1432,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/neoconservadorismo.md"
     },
     {
       "id": "neofascismo",
@@ -1326,7 +1444,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/neofascismo.md"
     },
     {
       "id": "neoliberalismo",
@@ -1337,7 +1456,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/neoliberalismo.md"
     },
     {
       "id": "neonazismo",
@@ -1348,7 +1468,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/neonazismo.md"
     },
     {
       "id": "neorreacionarismo",
@@ -1359,7 +1480,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/neorreacionarismo.md"
     },
     {
       "id": "objetivismo",
@@ -1370,7 +1492,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/objetivismo.md"
     },
     {
       "id": "ordoliberalismo",
@@ -1382,7 +1505,8 @@
       ],
       "volume_principal": 3,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/ordoliberalismo.md"
     },
     {
       "id": "paleoconservadorismo",
@@ -1393,7 +1517,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/paleoconservadorismo.md"
     },
     {
       "id": "pan-africanismo",
@@ -1404,7 +1529,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/pan-africanismo.md"
     },
     {
       "id": "pensamento-decolonial",
@@ -1415,7 +1541,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/pensamento-decolonial.md"
     },
     {
       "id": "peronismo",
@@ -1426,7 +1553,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/peronismo.md"
     },
     {
       "id": "piratismo-politico",
@@ -1437,7 +1565,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/piratismo-politico.md"
     },
     {
       "id": "plataformismo",
@@ -1448,7 +1577,8 @@
       ],
       "volume_principal": 4,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/plataformismo.md"
     },
     {
       "id": "populismo-digital",
@@ -1459,7 +1589,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/populismo-digital.md"
     },
     {
       "id": "pos-crescimento",
@@ -1470,7 +1601,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/pos-crescimento.md"
     },
     {
       "id": "pos-humanismo-politico",
@@ -1481,7 +1613,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/pos-humanismo-politico.md"
     },
     {
       "id": "pos-keynesianismo",
@@ -1492,7 +1625,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/pos-keynesianismo.md"
     },
     {
       "id": "protecionismo",
@@ -1503,7 +1637,8 @@
       ],
       "volume_principal": 10,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/protecionismo.md"
     },
     {
       "id": "reacionarismo",
@@ -1514,7 +1649,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/reacionarismo.md"
     },
     {
       "id": "republicanismo",
@@ -1525,7 +1661,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/republicanismo.md"
     },
     {
       "id": "republicanismo-civico",
@@ -1536,7 +1673,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/republicanismo-civico.md"
     },
     {
       "id": "secularismo",
@@ -1547,7 +1685,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/secularismo.md"
     },
     {
       "id": "separacao-de-poderes",
@@ -1558,7 +1697,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/separacao-de-poderes.md"
     },
     {
       "id": "sionismo-religioso",
@@ -1569,7 +1709,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/sionismo-religioso.md"
     },
     {
       "id": "soberania-digital",
@@ -1580,7 +1721,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/soberania-digital.md"
     },
     {
       "id": "social-democracia",
@@ -1591,7 +1733,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/social-democracia.md"
     },
     {
       "id": "socialismo",
@@ -1602,7 +1745,8 @@
       ],
       "volume_principal": 1,
       "status": "rascunho",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/ideologias/socialismo.md"
     },
     {
       "id": "socialismo-cientifico",
@@ -1613,7 +1757,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/socialismo-cientifico.md"
     },
     {
       "id": "socialismo-cristao",
@@ -1624,7 +1769,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/socialismo-cristao.md"
     },
     {
       "id": "socialismo-de-mercado",
@@ -1636,7 +1782,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/socialismo-de-mercado.md"
     },
     {
       "id": "socialismo-democratico",
@@ -1647,7 +1794,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/socialismo-democratico.md"
     },
     {
       "id": "socialismo-islamico",
@@ -1658,7 +1806,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/socialismo-islamico.md"
     },
     {
       "id": "socialismo-libertario",
@@ -1669,7 +1818,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/socialismo-libertario.md"
     },
     {
       "id": "socialismo-utopico",
@@ -1680,7 +1830,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/socialismo-utopico.md"
     },
     {
       "id": "solarpunk-politico",
@@ -1691,7 +1842,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/solarpunk-politico.md"
     },
     {
       "id": "strasserismo",
@@ -1702,7 +1854,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/strasserismo.md"
     },
     {
       "id": "tecnocracia",
@@ -1714,7 +1867,8 @@
       ],
       "volume_principal": 7,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/tecnocracia.md"
     },
     {
       "id": "tecnolibertarianismo",
@@ -1725,7 +1879,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/tecnolibertarianismo.md"
     },
     {
       "id": "tecnoprogressismo",
@@ -1736,7 +1891,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/tecnoprogressismo.md"
     },
     {
       "id": "tenentismo",
@@ -1747,7 +1903,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/tenentismo.md"
     },
     {
       "id": "teocracia",
@@ -1758,7 +1915,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/teocracia.md"
     },
     {
       "id": "teologia-da-libertacao",
@@ -1770,7 +1928,8 @@
       ],
       "volume_principal": 8,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/teologia-da-libertacao.md"
     },
     {
       "id": "titoismo",
@@ -1781,7 +1940,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/titoismo.md"
     },
     {
       "id": "totalitarismo",
@@ -1792,7 +1952,8 @@
       ],
       "volume_principal": 6,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/totalitarismo.md"
     },
     {
       "id": "trabalhismo-brasileiro",
@@ -1803,7 +1964,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/trabalhismo-brasileiro.md"
     },
     {
       "id": "tradicionalismo-politico",
@@ -1814,7 +1976,8 @@
       ],
       "volume_principal": 5,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/tradicionalismo-politico.md"
     },
     {
       "id": "transfeminismo",
@@ -1825,7 +1988,8 @@
       ],
       "volume_principal": 9,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/transfeminismo.md"
     },
     {
       "id": "transumanismo-politico",
@@ -1836,7 +2000,8 @@
       ],
       "volume_principal": 12,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/transumanismo-politico.md"
     },
     {
       "id": "trotskismo",
@@ -1847,7 +2012,8 @@
       ],
       "volume_principal": 2,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/trotskismo.md"
     },
     {
       "id": "varguismo",
@@ -1858,7 +2024,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/varguismo.md"
     },
     {
       "id": "zapatismo",
@@ -1869,7 +2036,8 @@
       ],
       "volume_principal": 11,
       "status": "planejado",
-      "observacao": "Classificação inicial sujeita a revisão."
+      "observacao": "Classificação inicial sujeita a revisão.",
+      "nota": "verbetes/conceitos/zapatismo.md"
     }
   ]
 }
